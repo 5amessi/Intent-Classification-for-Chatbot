@@ -1,0 +1,2425 @@
+message,intent
+where's the nearest parking garage,navigate
+Where is the nearest gas station?,navigate
+show me the closest location where i can get chinese food,navigate
+"Hi, please set up a reminder for my dinner on the 11th at 4pm with my sister. Thanks!",schedule
+What time is dinner and who is it with?,schedule
+schedule dentist appointment,schedule
+check forecast for new york,weather
+Will it be warm in Camarillo over the next 2 days?,weather
+what's the highest temperature for this week,weather
+Will there be hail in Mountain View today?,weather
+Will the weather be warm in Menlo Park on Sunday?,weather
+what is the weather like today and tomorrow,weather
+get me directions to the nearest shopping mall,navigate
+remind me that i have a meeting at work on the 12th at 5 pm in conference room 100,schedule
+where are the nearest coffee shops,navigate
+What is the date of football and who is coming?,schedule
+Will it be stormy in Redwood City on Wednesday?,weather
+is it going to snow today,weather
+What day and time is my yoga class?,schedule
+is the weather cloudy right now,weather
+Will the weather be hail in Alhambra during the next seven days?,weather
+Schedule a yoga activity with Tom on the 8th at 2pm.,schedule
+I need to find the shortest route to the hospital.,navigate
+give me the closest fast food restaurant,navigate
+What is the date of my Nextt dentist appointment and who will be attending it?,schedule
+is it going to rain at all this upcoming week,weather
+Is there a nearby rest stop?,navigate
+"Give me the address of the nearest shopping center to me, with the fastest route to it",navigate
+what is the weather like today in tomorrow,weather
+tell me the time of today's meeting,schedule
+Find me a gas station that I can get to the quickest without any traffic,navigate
+Where does my friend live?,navigate
+show me traffic for going home,navigate
+Will it be dry in Fresno on Sunday?,weather
+Car I'm desiring to have pizza: is there any restaurant within 2 miles?,navigate
+search hotels near me,navigate
+set a reminder for my conference call tomorrow,schedule
+take me to the parking garage closest to my destination,navigate
+where can i get coffee,navigate
+Schedule meeting. ,schedule
+what is the weather like in new york city,weather
+Can you find me the fastest route to a pizza restaurant?,navigate
+i have a meeting tomorrow at 5 pm remind me 10 minutes before hand and attach my agenda to the calendar at 3,schedule
+does the forecast say it will snow,weather
+I really need to have an appointment scheduled for tennis on the 7th at 11 am.,schedule
+where's the closest place to park,navigate
+I need to find a shopping center. ,navigate
+Is it raining today in Grand Rapids?,weather
+When is my football activity and who is going with me?,schedule
+find out if it's supposed to rain,weather
+What grocery stores are here?,navigate
+i'm in pain navigate me to the nearest hospital,navigate
+search for nearby starbucks,navigate
+Will it be windy in redwood city today?,weather
+what's the weather forecast in new york,weather
+set a reminder,schedule
+when do i have dinner planned for,schedule
+"Set a reminder for a lab appointment at 6 pm on Sunday, August 8th with sister. ",schedule
+In the next 48 hours will it rain in alhambra?,weather
+what is the forecast in my city,weather
+what is the weather next week,weather
+Set a reminder that I have football at 1pm next Wednesday with Martha ,schedule
+What is the date and time of my doctor appointment?,schedule
+On tuesday in san mateo find out if it will be warm,weather
+"Find out immediately the location, time, and date for my meeting. ",schedule
+Will it be windy in Durham this week?,weather
+what time is my swimming scheduled for,schedule
+give me directions to the nearest shopping center,navigate
+Will there be dew in Brentwood this week?,weather
+What time and date is my lab appointment?,schedule
+give me the forecast for the next 7 days,weather
+when is my next meeting,schedule
+give me directions to the nearest grocery store,navigate
+check the weather for the 7 day forecast,weather
+Please give me the address and directions via the quickest route to a hospital around me. ,navigate
+"What day is my lab appointment, and who all will be there?",schedule
+set reminder for eye doctor appointment on the 12th at 3 pm,schedule
+i feel like some coffee where's the nearest place,navigate
+when am i playing tennis,schedule
+set reminder for doctor's appointment for the tenth,schedule
+schedule a dentist appointment at 3 next month on the 12th,schedule
+show me the nearest shopping mall,navigate
+tell me when my dentist appointment is,schedule
+check forecast for new york,weather
+"Can you direct me to a coffee or tea place nearby, preferably on a route with no traffic?",navigate
+give me directions to the nearest mall,navigate
+what is the weather like today and tomorrow,weather
+Where is the nearby hospital?,navigate
+Set a reminder for doctors appointment on August 14th at 4pm with my sister,schedule
+What date is my football activity and who is attending?,schedule
+schedule a meeting for next week,schedule
+check the weather,weather
+what time is yoga class,schedule
+Schedule a 6 pm meeting with my boss to go over the quarterly report on Tuesday.,schedule
+show me the closest location where i can get chinese food,navigate
+Where is there a hospital around me?,navigate
+find me a nearby shopping mall shopping center,navigate
+Will it snow in Fresno in the next week? ,weather
+remind me to go swimming on the 12th of this month,schedule
+is it going to snow in the next 7 days,weather
+"Car I need to get to a rest stop, please pick something with a quick route within 2 miles from here",navigate
+What is the date and time of my next football activity.,schedule
+Where can I go shopping?,navigate
+"Find out some information for my swimming activity, parties joining me and date. ",schedule
+Schedule a tennis activity for the 13th at 9 am with my brother. ,schedule
+Where is there Chinese food?,navigate
+what is the weather like for tomorrow night,weather
+check to see if i have any meetings or conferences in the near future,schedule
+find the nearest coffee shop,navigate
+directions to coffee and tea house,navigate
+Set an optometrist appointment for 3pm on the 15th of this month with my aunt,schedule
+Where is the hospital?,navigate
+get me the weather forecast for the next 7 days,weather
+get me the weather report for this week,weather
+Is it dry in Fresno right now?,weather
+what time is my meeting at,schedule
+what's the forecast going to be for today and tomorrow,weather
+Please give me the address and directions by the fastest route to a coffee or tea place. Avoid heavy traffic please. ,navigate
+give me directions to starbucks,navigate
+put my optometrist appointment in my calendar,schedule
+give me directions to the local coffee shop,navigate
+schedule lab test,schedule
+what is the current temperature,weather
+Where is the closest shopping center located at?,navigate
+Will it be stormy in Grand Rapids during the week?,weather
+Please give me the address and directions via the quickest route to the nearest gas station. ,navigate
+Remind me that next week at 5pm I have tennis with Jon.,schedule
+what's the weather today,weather
+update me on the weekly weather forecast for this week,weather
+schedule doctor's appointment for august 3 at 10,schedule
+is it cloudy today,weather
+Will there be clear skies in Redwood City next week?,weather
+Where can I eat pizza?,navigate
+what are some nearby hotels,navigate
+Find a parking garage.,navigate
+make a reminder for me to pick up my prescription later today,schedule
+show me what time i need to take my pills,schedule
+Find home address that is within the distance of 5 miles.,navigate
+"Remind me about my football activity on the 1st, at 1 pm with my brother",schedule
+set an appointment for a meeting on my calendar,schedule
+Find out if it will drizzle today or tomorrow in downtown Chicago,weather
+When is the football?,schedule
+I need to find out the time and parties attending my optometrist appointment. ,schedule
+Where can I go shopping?,navigate
+Car I need to go to a grocery store: which one is it the closest to me?,navigate
+what time is my yoga class,schedule
+what's the weather going to be like this week,weather
+remind me about the date and time that he was going to be there and what the agenda is for his business meaning,schedule
+I would like to know what time and day my tennis is. ,schedule
+Where is there a shopping center within 5 miles?,navigate
+what is the weather going to be today and tomorrow,weather
+get directions to home,navigate
+get me directions to the closest starbucks,navigate
+Where can I fill up?,navigate
+make a note that at 5 pm on the 12th i have yoga,schedule
+what is the date location and time of my next conference,schedule
+"What is the date, time, and agenda of my next conference?",schedule
+I need a route to my friends that avoids heavy traffic. ,navigate
+what's the temperature going to be like this week,weather
+Where can I get some tea.,navigate
+what is the forecast for new york city,weather
+Where can I get pizza?,navigate
+Will it be windy in Corona on Wednesday?,weather
+give me this week's high temperature,weather
+What is the date and time of my optometrist appointment?,schedule
+take me home,navigate
+find a tea shop,navigate
+what are the directions to the mall,navigate
+find nearest coffee shop,navigate
+what's the weather like in grand rapids,weather
+where can i get coffee,navigate
+what's the weather going to be today and also what is the weather going to be this week,weather
+Where can I go shopping?,navigate
+What hospitals are nearby?,navigate
+set reminder for laboratory request on this month on the 12th,schedule
+"When, where, and what time is my meeting, and who will be there?",schedule
+"Give me the agenda, date and time of my next meeting. ",schedule
+Will it be hot in Grand Rapids on Friday?,weather
+What is the shortest route to home?,navigate
+remind me when i can get my lab results,schedule
+tomorrow's forecast,weather
+find me the best parking spot,navigate
+Set a reminder to take medicine at 10am on the 11th with my brother,schedule
+Set a reminder for a lab appointment on the 13th at 4PM with Jeff.,schedule
+Schedule a conference with management on Monday August 8th at 10am.,schedule
+what is the weather like in new york city,weather
+"In mountain view, will there be frost today or tomorrow?",weather
+what's the weather like this week,weather
+what's the weather forecast going to be for each day this upcoming week is it going to snow,weather
+I need to know who is going with me to optometrist appointment  and what day. ,schedule
+what is the temperature for the next 7 days weather forecast,weather
+Where is the nearest rest stop?,navigate
+Where is the closest hospital?,navigate
+what day is my dentist appointment,schedule
+Can you find out who is joining me and what day my optometrist appointment is at?,schedule
+Over the next few days will it rain in fresno,weather
+what's the weekly weather report for the city,weather
+Will it be humid in Inglewood during the next few days?,weather
+Will there be dew in Menlo Park next week? ,weather
+Will it be warm in San Mateo over the weekend?,weather
+take me to the nearest shopping center,navigate
+give me directions to my friends house,navigate
+I want pizza.,navigate
+Where can I go shopping?,navigate
+set a reminder to go to conference room 104 the meeting on the 12th,schedule
+On Thursday will it be overcast in Exeter?,weather
+What is the date and time for my doctor appointment? ,schedule
+What is my address?,navigate
+what time is my doctor's appointment tomorrow,schedule
+remind me of a doctors appointment on the 29th,schedule
+Which one is gonna be the lowest temperature today and tomorrow in Fresno?,weather
+"Car, will you schedule a Doctor's appointment for me? Set it for 11 am, tomorrow, with Jon.",schedule
+what's the current temperature outside,weather
+what's the weather forecast for tomorrow,weather
+Find a grocery market for me please.,navigate
+take me to the nearest grocery store,navigate
+i need to make an appointment to get lab testing done on a certain date,schedule
+find me a nearby tea or coffee shop,navigate
+remind me about my doctor's visit,schedule
+What time is my optometrist appointment and who all will be there?,schedule
+please tell me the weather for today and tomorrow,weather
+What time is my doctor appointment and who is attending?,schedule
+find me all the nearest hotels,navigate
+I'd like to set a reminder for my meeting at 2pm later this month please.,schedule
+take me to the nearest starbucks please,navigate
+can you give me directions to the nearest starbucks,navigate
+Schedule conference. ,schedule
+is there a chance of snow in this weeks weather forecast,weather
+Is there a grocery store close?,navigate
+what is the temperature outside,weather
+what is the weather supposed to be like for the next week,weather
+What is the time of my swimming activity and who is attending?,schedule
+what time is my doctor's appointment today,schedule
+Can you find me a coffee place near me?,navigate
+give me directions to my friends house,navigate
+check the weather for the 7 day forecast,weather
+what's the temperature going to be for the week,weather
+what day is my swimming lessons,schedule
+"Remind me about my optometrist appointment with my father on the 29th, at 7 pm",schedule
+what time is the meeting,schedule
+please tell me the weather for today and tomorrow,weather
+Set a reminder for today's optometrist appointment at 3 with my mom,schedule
+"I need to find a gas station fast, we are about out. ",navigate
+Find my home address for me around here in this area.,navigate
+navigate to the nearest fast food restaurant,navigate
+Is there a grocery store within 5 miles? ,navigate
+show me the route to coffee shop,navigate
+tell me the date and time of my next doctor's appointment,schedule
+doctor's appointment at 10 am on monday august 8th,schedule
+what's the temperature for today,weather
+Will it be hot in Redwood City on Monday?,weather
+Schedule a swimming activity with Marie for Friday at 1pm.,schedule
+When is my yoga?,schedule
+What is the date and time for the yoga activity?,schedule
+schedule my dentist appointment on the 12th,schedule
+remind me about the football game,schedule
+directions to local hotel,navigate
+Will there be drizzle in the forecast for oakland this week?,weather
+schedule an appointment for yoga,schedule
+What is the date of my next dinner and who will be attending it?,schedule
+Can you find me a gas station nearby?,navigate
+Schedule a optometrist appointment for Thursday at 5pm. My father is joining me.,schedule
+Find out if alhambra will be dry this week,weather
+what's the temperature,weather
+take me to a place where i can get something to eat,navigate
+"Where is my meeting, which parties will be attending, and what is the meeting about?",schedule
+is it going to be raining this weekend,weather
+Where can I get pizza?,navigate
+what is the weather in new york city,weather
+Check the next 48 hours and tell me is alameda will be misty.,weather
+is it going to be cloudy in the next 7 days,weather
+what's the weather like,weather
+set an alarm for my doctor's appointment,schedule
+give me directions to a coffee place,navigate
+Who is attending the swimming activity and what date is it?,schedule
+Locate my friends address for me.,navigate
+Will there be frost in Atherton on Friday? ,weather
+Will it be humid in exeter tomorrow?,weather
+Can I expect to see clear skies in Compton next week?,weather
+what's the temperature going to be for the week,weather
+what's the forecast for the weather today,weather
+Who will be at my lab appointment and what day is it?,schedule
+add a meeting to my calendar,schedule
+What time do I have to take my medicine and who will be here?,schedule
+what's the temperature in city,weather
+Is there any rain in the current weather forecast in Inglewood?,weather
+What's the 7 day forecast in Brentwood?,weather
+does the local forecasts say it'll be cloudy,weather
+Where can I get groceries?,navigate
+remind me that i have a doctors appointment at 5 pm,schedule
+What time is dinner and who is attending?,schedule
+what is the weather like today,weather
+schedule my dentist appointment on the 12th,schedule
+What is the date and time of my next optometrist appointment?,schedule
+find starbucks,navigate
+Is it gonna hail in Mountain View this week?,weather
+Find me a chinese spot i could get to the quickest.,navigate
+what time is my meeting,schedule
+is it snowing next week,weather
+when is my next meeting,schedule
+find me a tea house,navigate
+Where is the rest stop within 2 miles?,navigate
+tell me the closest place to get a cup of hot tea,navigate
+navigate to the closest restaurant,navigate
+What is the agenda for the conference?,schedule
+Will it be misty in Alameda next week?,weather
+what is the weather for next week,weather
+what's the weather forecast,weather
+Car I need to buy groceries: is there any grocery store on our way?,navigate
+what is the weather for today,weather
+Are there gonna be clear skies on Sunday in Durham?,weather
+I need to find out the time and the parties attending my yoga activity. ,schedule
+how cloudy is it going to be for the next week,weather
+Set a reminder for my tennis activity at 6pm this week with Martha.,schedule
+What is the address of the local hospital?,navigate
+Where can I get tea?,navigate
+what are the directions to the nearest hospital,navigate
+Is there any dew in the forecast over the next few days in Durham?,weather
+Schedule a conference for 11 am on the 6th of this month with sales team.,schedule
+Can you give me the address and the quickest route directions to a gas station within two miles of here?,navigate
+When is my dentist appointment? Who am I going with?,schedule
+give me directions home,navigate
+is it going to rain this week,weather
+Where are the rest stops near me?,navigate
+What is my home address and what is the route I can take there with the least traffic that will get me there the quickest?,navigate
+What is the weather report for Durham today and tomorrow?,weather
+Please give me an address and directions via the fastest route to a coffee or tea place around me. ,navigate
+Please give me the address and directions via a route that avoids all heavy traffic to a hospital around here. ,navigate
+i have a dinner. when is it and who is attending,schedule
+can i get the two day weather report,weather
+give me directions to the nearest parking garage,navigate
+what's the weekly weather report for the city,weather
+Is it currently rainy in Fresno,weather
+take me home,navigate
+navigate to the closest restaurant,navigate
+I need help finding a grocery store.,navigate
+Schedule a meeting on December 10th at 2pm with the infrastructure team to discuss the merger.,schedule
+Will it be cloudy in San Jose this week?,weather
+What's the highest temperature going to be in Grand Rapids tomorrow?,weather
+Are there shopping centers nearby?,navigate
+Is it foggy in exeter today,weather
+please show me the weekly weather report,weather
+Where is the nearest rest stop?,navigate
+find me the closest fast food place that serves chinese,navigate
+Schedule a yoga activity with Martha for the 4th at 10am.,schedule
+Who is going to play tennis with me? ,schedule
+Car I'm desiring coffee: which one is the closest to my position?,navigate
+car what is the weather going to be like in the next several days,weather
+search for nearest fast food restaurants,navigate
+Where do I live?,navigate
+check today's forecast for rain,weather
+make me an appointment with the optometrist,schedule
+Where does my friend live?,navigate
+Schedule a dinner at 5pm of the 12th of current month with my father.,schedule
+Car I need a parking garage in the area around me: please send the fastest route on my screen,navigate
+Is it going to rain in Exeter over the next few days?,weather
+schedule an appointment with the optometrist on the 12th,schedule
+what's the weekly weather report for the city,weather
+what is the forecast for new york city,weather
+I'm desiring to eat at some Chinese restaurant: please pick the nearest one!,navigate
+on my calendar set a time for tennis at 12 pm,schedule
+Schedule dinner at 3pm next week with sister,schedule
+is it going to rain at all this upcoming week,weather
+remind me to go get a shot tomorrow,schedule
+find me a tea house,navigate
+find the nearest restaurant with chinese take-out,navigate
+Car I need to go to a grocery store,navigate
+give me this week's high temperature,weather
+Will there be frost in Alameda tomorrow?,weather
+Is there rain on Sunday,weather
+is it cloudy in the next 7 days,weather
+what are some nearby restaurants,navigate
+"Car I need to get to some rest stop, I'm tired, please find something in the local area",navigate
+Schedule a football activity with my aunt on the 5th at 4pm.,schedule
+is it going to rain this week,weather
+Schedule a optometrist appointment on the 7th at 2 pm with Jon. ,schedule
+add a meeting to my calendar,schedule
+is it snowy in fresno,weather
+what time is the group meeting,schedule
+what's the forecast for today,weather
+what is the weather like right now,weather
+Look at today and tomorrow's forecast and tell me if there will be a blizzard in mountain view,weather
+Who is taking medicine with me and on what day?,schedule
+"Schedule an appointment at 7pm today with Jeff the optometrist, please",schedule
+"What is the location and time of the meeting, and who is attending?",schedule
+how cloudy is it going to be for the next week,weather
+What is the weather report for Saturday in Manhattan?,weather
+is there any traffic on the route home,navigate
+Car I want to have some tea! Is there anything in the area?,navigate
+let me know if there will be snow and ice in the next week's forecast,weather
+what is the weather today in tomorrow,weather
+Where is the closest shopping center?,navigate
+Will there be dew in Redwood City in the weekend?,weather
+take me to the nearest hospital,navigate
+what is the weather going to be like today and tomorrow,weather
+What is the date of my next dinner event and who will be attending?,schedule
+Will it be cloudy in Manhattan today and tomorrow?,weather
+navigate to the nearest mall,navigate
+take me to the nearest hotel,navigate
+can you find me parking nearby,navigate
+Find out the temperature in alhambra on tuesday,weather
+Will it be warm in Brentwood on Sunday?,weather
+Get me the address to a chinese restaurant in the area.,navigate
+Give me a quick route to a pizza restaurant within 5 miles of here,navigate
+What time is my meeting and who is going to be there and what is the agenda?,schedule
+what's the temperature,weather
+"I have a meeting at 3 pm, set a reminder. ",schedule
+where's the nearest shopping mall,navigate
+check the weather for today,weather
+what time is the exercise class,schedule
+check weather,weather
+set my route to the closest mall,navigate
+Does the weekend outlook say if there will be dew in mountain view?,weather
+give me the full weekly weather forecast,weather
+set a reminder on my calendar for football practice at 4:50 pm on august 12th,schedule
+i'm not feeling well show me the fastest route to the nearest hospital,navigate
+what time is the group meeting,schedule
+set reminder for dinner,schedule
+Are there any hospitals near me,navigate
+what's the forecast for the weather today,weather
+Car I need to get to a shopping center: please pick the quickest one around here,navigate
+check to see if there will be rain today or tomorrow in alameda,weather
+What time is my tennis activity and who will be attending it?,schedule
+find me a hotel nearby,navigate
+make an appointment for me to get my laboratory results later this week,schedule
+What is the date of my swimming activity and who is attending?,schedule
+find weekly weather forecast,weather
+Schedule swimming tomorrow at 2 with my brother,schedule
+set an alarm for my doctor's appointment,schedule
+"Hi car, can you set a reminder for my conference at 5 pm, the 6th of this month, with executive team for 1 pm?",schedule
+Tell me will there be snow in redwood city on monday?,weather
+show me nearby parking,navigate
+When is the football event and who is attending?,schedule
+Can you tell me when my swimming activity is? ,schedule
+directions to the nearest takeout chinese restaurant,navigate
+Is it stormy in San Francisco right now?,weather
+take me to the nearest starbucks please,navigate
+I need to know the agenda for my meeting as well as who is attending and the location. ,schedule
+What shopping centers are around?,navigate
+"Car I want pizza, please send me the address of any pizza restaurant nearby",navigate
+Where does my friend live?,navigate
+pull up directions to 5672 barringer street,navigate
+show me directions to the nearest starbucks,navigate
+When is my conference and where is it,schedule
+Car I'm desiring to do some shopping: which one is it the nearest shopping center? Anything within 4 miles?,navigate
+when is my dentist appointment,schedule
+Is it gonna be blizzard today in Danville?,weather
+"I need to know when the conference is, where it is, and who is attending. ",schedule
+give me directions to my friends house,navigate
+Find me the quickest route to the gas station. ,navigate
+Will it be cloudy in Los Angeles on Thursday?,weather
+what is the temperature for the next 7 days weather forecast,weather
+Where can I buy groceries?,navigate
+I need the route with the shortest distance to a parking garage in the area,navigate
+What will be the lowest temperature in grand rapids over the next seven days?,weather
+what is the weather like this week,weather
+Can I find a chinese restaurant?,navigate
+show me the directions to starbucks,navigate
+what's the weather forecast for the next week,weather
+What is the date and time of my next doctors appointment?,schedule
+what time is my lab appointment for,schedule
+I want Chinese.,navigate
+what's the weather like today,weather
+remind me about my son's football practice at 2 tomorrow,schedule
+What is the date of my optometrist appointment and who will be attending it?,schedule
+tell me the weather forecast for this week,weather
+what is the weather like today and tomorrow,weather
+Is there a Starbucks here?,navigate
+tell me what the temperature will be like for the next week,weather
+I need to set a reminder for a lab appointment. ,schedule
+"Can you set a reminder for my Optometrist appointment at 10 am, tomorrow with Jeff? ",schedule
+Where's the conference happening? Who's going to be there and what are we talking about?,schedule
+tell me when i have yoga class,schedule
+Where is the nearest parking garage?,navigate
+check the weather for today,weather
+is it going to be cloudy this week,weather
+"Car I'd like to eat pizza, please pick come restaurant within 3 miles and send the quickest route on screen",navigate
+car what is the weather going to be like in the next several days,weather
+Car I wanna go to a shopping center: is there anything within 3 miles?,navigate
+set a reminder on the 12th to refill my prescription,schedule
+What time do i need to take medicine and who will be helping me?,schedule
+check forecast for today and tomorrow,weather
+Set a reminder for a dentist appointment at 5 pm on Monday the 1st with my mother.,schedule
+when will my lab results be in,schedule
+give me a quick route to a grocery store,navigate
+check the weather for today,weather
+What date is tennis activity and who is attending?,schedule
+what day is my next tennis match,schedule
+What hospitals are here?,navigate
+take me to a chinese restaurant,navigate
+can you give me the weather this week for new york city,weather
+Will it be hail in Cleveland on Sunday?,weather
+show me the route to coffee shop,navigate
+what day and time did i schedule my blood test for,schedule
+What date is my dentist appointment and who is attending?,schedule
+what is the weather like in boston,weather
+Car I'm desiring some tea,navigate
+what time is my meeting scheduled,schedule
+It's gonna be cloudy in Oakland in next few days?,weather
+I have yoga on Saturday with Marie. ,schedule
+Will there be frost in Durham next week?,weather
+What will the highest temperature in Seattle be today?,weather
+can you give me directions to the nearest hotel,navigate
+What will the lowest temperture be in downtown Chicago next week?,weather
+find the nearest shopping mall on the map,navigate
+Is there a Philz here?,navigate
+What time is my lab appointment and what party is attending?,schedule
+schedule yoga appointment,schedule
+what will the weather be like in the city,weather
+Where can I find a hospital?,navigate
+Is it gonna be hail in Mountain View now?,weather
+Schedule a conference with the vice president on August 14th at 10am.,schedule
+"What is the date, time, and agenda of my next conference?",schedule
+remind me to pick up lab results,schedule
+I need a route to the hospital with no traffic. ,navigate
+"Car I wanna eat at some Chinese restaurant: please pick a route with least traffic, better if there will be no traffic at all",navigate
+Schedule a dentist appointment for tomorrow at 2pm. Marie is coming along,schedule
+get me directions to the nearest chinese restaurant,navigate
+give me directions to the nearest mall,navigate
+remind me about that meeting later,schedule
+make an appointment for me to get my laboratory results later this week,schedule
+Who is attending dinner and what time is it?,schedule
+Can you set a reminder for yoga activity at 9 am this week with father?,schedule
+what is the weather forecast for the weekend,weather
+"Schedule a meeting at 1pm, this month on the 11th with boss to discuss dress code. ",schedule
+check the weather for the 7 day forecast,weather
+can you give me directions to the nearest hotel,navigate
+I need to schedule Yoga with Martha. ,schedule
+"Hello, can you set the schedule for an Optometrist appointment at 10am, on Thursday, with Marie, please and thank you. ",schedule
+Is it going to be humid in Danville on Saturday?,weather
+Is it currently windy in fresno?,weather
+is there any rain in the local forecast,weather
+what's the forecast for new york city,weather
+Quickest route home. ,navigate
+navigate me to the nearest hotel,navigate
+Find the address to a chinese restaurant that i could get to the quickest.,navigate
+I need to schedule a dentist visit. ,schedule
+tell me what the temperature will be like for the next week,weather
+directions to the nearest takeout chinese restaurant,navigate
+what time am i scheduled to play tennis at,schedule
+what's the weather like,weather
+Where does my friend live?,navigate
+I need a place that serves coffee locally.,navigate
+Set a reminder for optometrist appointment at 2 pm today with Marie.,schedule
+Tell me if it will rain in Alameda in the next 48 hours,weather
+what the nearest gas station by me?,navigate
+what is the weather going to be today and tomorrow,weather
+What day and time is my dentist appointment?,schedule
+find me the nearest grocery store,navigate
+I need the quickest route to a coffee shop. ,navigate
+Remind me that I have a meeting with my Boss on the 13th of next month at 5pm,schedule
+On what day and time should i be taking my medicine?,schedule
+Where can I get gas?,navigate
+what is today's weather forecast,weather
+navigate to nearest chinese food place,navigate
+directions to coffee and tea house,navigate
+navigate to the nearest starbucks,navigate
+Schedule a meeting on Monday the 1st at 11am with the sales team to discuss the company picnic.,schedule
+is it going to rain today,weather
+give me the weather for next week,weather
+When is my tennis scheduled for?,schedule
+what time is my tennis activity?,schedule
+will it rain anytime in the next week,weather
+"What is the date, location, and agenda of my next conference?",schedule
+will it be raining in the next 7 days,weather
+which days are rain forecasted,weather
+Find out if it will be cloudy on Monday in Cleveland.,weather
+what is the weather like in new york this week,weather
+What is the date of my dentist appointment and who will be attending it?,schedule
+Where is there a pizza place near me?,navigate
+Will there be clear skies in Compton on the weekend?,weather
+take me to the nearest cafe,navigate
+what is the forecast for this week,weather
+find the nearest chinese place on the map,navigate
+Where does  my friend live?,navigate
+What is the date and time of my dentist appointment?,schedule
+how is the weather in the city this weekend,weather
+what's the weekly weather report for the city,weather
+Where do I live?,navigate
+Car I wanna go to a grocery store!,navigate
+is the weather cloudy right now,weather
+is it going to rain in the next few days tell me when,weather
+what's the weather forecast for the next week,weather
+What date is my football activity and who is attending?,schedule
+will it rain next week,weather
+Set a reminder for taking my medicine at 4 pm on the 8th with Ana.,schedule
+What is the date of the next time i need to take medicine and who will be attending?,schedule
+I need the fastest route to a rest stop. ,navigate
+what's the weather like this week,weather
+find me a nearby parking garage or parking lot,navigate
+search today's forecast,weather
+There will be a blizzard tomorrow in Grand Rapids?,weather
+get me directions to the grocery store,navigate
+Will there be rain in Durham this upcoming week?,weather
+what's the weather going to be today and also what is the weather going to be this week,weather
+Please give me the address and quickest route directions to the nearest gas station. ,navigate
+give me directions to the nearest car parking area,navigate
+can you give me directions to the nearest starbucks,navigate
+when is my next conference,schedule
+set a reminder for tennis,schedule
+Can you find out the time and date for my next meeting? Oh and the location.,schedule
+how's the weather in new york,weather
+Look at today and tomorrow and tell me if there will be drizzle in camarillo,weather
+What time is my optometrist appointment and who will be going?,schedule
+is it going to rain this week,weather
+set a calendar reminder to go out to dinner,schedule
+what's the weather like today and tomorrow,weather
+Where is the closest Chinese restaurant?,navigate
+search for nearby cafe,navigate
+I need you to find out the time and who is attending my yoga activity. ,schedule
+confirm dentist appointment on the 12th at 4:50 pm,schedule
+what time is my optometrist appointment,schedule
+"find out the location, date and time for my meeting. ",schedule
+show me the locations of all of the nearby motels,navigate
+Get the address to my friend's house that i could get to the fastest.,navigate
+what is the weather going to be like tomorrow show me the 7 day forecast,weather
+give me directions to nearest mall,navigate
+Need a coffee place within 4 miles with the quickest route.,navigate
+Set a reminder for dinner at 10am on the 22nd with my aunt. ,schedule
+what will the weather be like tomorrow,weather
+What day and time is my lab appointment?,schedule
+Tell me about my lab appointment,schedule
+what is the weather next week,weather
+Schedule dinner with Martha tonight at 10pm.,schedule
+what is the weather for the next 7 days,weather
+which days will be cloudy this week,weather
+how hot is it going to be this week,weather
+what is the weather today in tomorrow,weather
+make me an appointment with the optometrist,schedule
+What hospital is close?,navigate
+Who is going with me to the optometrist appointment?,schedule
+Where can I find a parking garage?,navigate
+schedule yoga class at 4:50 on the 12th,schedule
+Where can I go shopping?,navigate
+what's the weather going to be like this week,weather
+"Car I need a parking garage in the shortest distance, please help me!",navigate
+Where does my friend live?,navigate
+I would like to schedule a meeting at 5 PM on August 3rd with HR to discuss dress code.,schedule
+Where is a close rest stop?,navigate
+what is the forecast for this week,weather
+"What parties are on the calendar, what time are they, and where are they being held?",schedule
+Where is a gas station within 2 miles?,navigate
+what is the date and time of my next meeting,schedule
+There will be any hail in San Francisco on Thursday?,weather
+Where can I go shopping?,navigate
+Find the address of my closest friends house.,navigate
+What date and time is the football event?,schedule
+"Whats the nearest shopping center to me, and I need the quickest route.",navigate
+Set a reminder for the conference with the executive team at 5pm on Monday August 7th.,schedule
+give me directions to the nearest restaurant,navigate
+What will the highest temperature in San Jose be in the next 7 days? ,weather
+what is the current temperature,weather
+Where can I get tea?,navigate
+find nearest chinese restaurant,navigate
+set reminder to make doctor's appointment,schedule
+directions to the nearest takeout chinese restaurant,navigate
+when is the meeting,schedule
+Where is the closest coffee shop?,navigate
+show me what time i need to take my pills,schedule
+I'm going to Redwood City on Thursday: will it be humid?,weather
+Please give me the address and directions to a coffee shop via the quickest route. ,navigate
+what is the date of the next vaccination,schedule
+Please schedule a swimming activity Tuesday at 5pm with Martha.,schedule
+find the nearest chinese place on the map,navigate
+i need directions to a local fast food restaurant please,navigate
+is it snowing next week,weather
+what's the temperature going to be this week,weather
+Schedule a lab appointment with Ana for the 3rd at 2pm.,schedule
+remind me to get a shot,schedule
+"Please give me the address and directions to a gas station near my current location, avoiding all heavy traffic. ",navigate
+schedule a work meeting for the conference room this tuesday at 10,schedule
+what's the weather going to be like today and tomorrow,weather
+i'm looking for some takeout chinese food,navigate
+tell me how hot it's going to be in the forecast for the weather,weather
+give me directions to the nearest shopping mall,navigate
+remind me i have a tennis match on the 12th,schedule
+What is the date and time for my scheduled dinner this week with Sue.,schedule
+Who will be going to my doctors appointment and what day is it on?,schedule
+I'm desiring to eat at some Chinese restaurant: is there any in the area?,navigate
+find me a nearby shopping mall shopping center,navigate
+Is it humid in Compton now?,weather
+show me this week's forecast,weather
+what is the weather for today,weather
+What date and time is my dentist appointment at?,schedule
+Set a reminder for tennis on August 3rd at 11am with my aunt,schedule
+what's today's and tomorrow's forecast,weather
+is it going to rain at all this upcoming week,weather
+Will it be warm in Cleveland on Tuesday?,weather
+get me directions to the nearest chinese restaurant,navigate
+Need a gas station nearest me will little traffic.,navigate
+Schedule,schedule
+give me the weekly weather forecast,weather
+Please give me the address and quickest route details for a parking garage nearby. ,navigate
+schedule a doctor's appointment,schedule
+will it rain this week,weather
+Over the next seven days will there be any drizzle in camarillo?,weather
+What will the temperature be this weekend in grand rapids?,weather
+where can i find tea around me,navigate
+what's the weather like in downtown chicago,weather
+Locate a nearby shopping mall for me.,navigate
+Directions to a hotel please. ,navigate
+remind me of my yoga activity with Marie.,schedule
+directions to the nearest grocery store,navigate
+Will there be a blizzard this week in Manhattan?,weather
+what are the directions to the mall,navigate
+what's the seven day forecast for new york city,weather
+Can you find me a rest stop. I'm tired. ,navigate
+remind me of my dentist appointment,schedule
+Where is the closest hospital?,navigate
+take me to my friends house,navigate
+What is the date and time for tennis?,schedule
+Where is a parking garage at nearby?,navigate
+"I need you to set a reminder for a doctor appointment at 11 am, the 7th, with Alex.",schedule
+what time is my swimming lessons scheduled,schedule
+I need to schedule tennis with Jon. ,schedule
+Car I'm desiring to have some pizza! Is there any pizzeria in the local area?,navigate
+is it snowing out,weather
+what is the date for my next yoga appointment,schedule
+Schedule a doctor appointment with my brother on Monday August 8th at 5pm.,schedule
+Where can I get Chinese food?,navigate
+Is there a place that serves coffee near me?,navigate
+what's the temperature going to be like today and tomorrow,weather
+find out what time my eye doctor appointment is,schedule
+Can you find me the closest hospital to me?,navigate
+remind me i have a doctors appointment on the 12th at 5 pm,schedule
+what's the temperature going to be like this week,weather
+Will there be hail in Los Angeles today?,weather
+is it going to snow next week,weather
+I want pizza/,navigate
+show directions for the nearest grocery store,navigate
+What is the forecast for Seattle for the next 48 hours?,weather
+What day and time is tennis?,schedule
+schedule a doctors appointment on the 12th,schedule
+Where is the nearby hospital?,navigate
+Where is the closest rest stop?,navigate
+show me the locations of all of the nearby motels,navigate
+what's the weather like in downtown chicago,weather
+when is my doctor's appointment,schedule
+Where can I get groceries?,navigate
+find me a hotel nearby,navigate
+Where can I get pizza?,navigate
+what time is the doctor's appointment,schedule
+"Set a reminder for my football activity at 3pm this Tuesday, with mother. ",schedule
+where is the nearest hotel,navigate
+Will it drizzle in Los Angeles today?,weather
+is it supposed to snow today,weather
+Will it be windy tomorrow in Atherton?,weather
+I'd like a chinese restaurant,navigate
+Car I'm desiring pizza: pick a pizza restaurant with least traffic on our way!,navigate
+What time is my dentist appointment and who is going?,schedule
+what is the date and time of the conference,schedule
+Find me a pizza place within 3 miles and avoid all heavy traffic,navigate
+Schedule a football activity with Jon for the 29th at 6pm.,schedule
+Where is the closest shopping center?,navigate
+There will be any hail in Danville during the week?,weather
+what is the temperature going to be like this week,weather
+"Schedule a dinner at 6pm, on the 15th of this month, with my sister",schedule
+will it hail in oakland,weather
+are there clear skies in the forecast today,weather
+find a coffee place,navigate
+Next week in San Mateo will there be any frost?,weather
+What will the highest temperature be in Menlo Park on Tuesday?,weather
+what is the chance of rain next week,weather
+does the forecast call for snow today,weather
+"When is the meeting, what is the agenda and who are attending?",schedule
+is it going to rain sometime this week,weather
+what is the current temperature,weather
+Are there any Chinese places I can get to with no traffic within 5 miles of here?,navigate
+Look at today and tomorrow and tell me if there will be any snow in san francisco,weather
+what is the date and time of the conference,schedule
+What is the time and date of my doctor appointment.,schedule
+Car I need a hotel to get some sleep: is there any in the local area?,navigate
+Where is a near rest stop?,navigate
+Set a reminder for a conference with the vice president next Wednesday at 10 am.,schedule
+I need to find the closest hospital. ,navigate
+Is the weather overcast in grand rapids now?,weather
+Where is the nearest pizza place?,navigate
+give me the full weekly weather forecast,weather
+what's the weather going to be like today,weather
+please give me directions to 5677 springer street,navigate
+what is the weather today,weather
+find me chinese restaurants within 3 miles of my current location,navigate
+set an alarm for the football game,schedule
+What time and date is my next yoga activity?,schedule
+I need to see the Dentist this month the 6th at 7pm with Jon. ,schedule
+What's the route to my friends house within 4 miles?,navigate
+give me directions to some nearby hotels,navigate
+when is my next yoga class,schedule
+what is the weather forecast in the city,weather
+remind me about the conference tomorrow at 12 pm in conference room 100,schedule
+what will the temperature be this weekend,weather
+Will it be misty in Redwood City during the upcoming seven day period?,weather
+where can i go to eat,navigate
+find the nearest parking garage,navigate
+take me to the nearest starbucks,navigate
+When is yoga? Who's going to be there?,schedule
+Where is a nearby parking garage?,navigate
+find me a gas station that is within 3 miles please.,navigate
+I need to know if Brentwood is going to be overcast on Monday please. ,weather
+what will the weather be like tomorrow,weather
+Will it be foggy in Menlo Park in the next two days?,weather
+What time is my next lab appointment and who will be attending it with me?,schedule
+Will there be and dew this week in Inglewood?,weather
+Are we going to have clear skies in San Francisco on Sunday?,weather
+what is the temperature,weather
+What date is my yoga activity and who is attending? ,schedule
+give me the weather for next week,weather
+Schedule a dentist appointment at 3 pm on the 11th of this month with father. ,schedule
+where's the nearest place to get lunch,navigate
+In new york will it be foggy this week?,weather
+what is the weather forecast in the city,weather
+what is the weather for today,weather
+Get me the address to my nearest friend's house.,navigate
+Please give me the address and directions via the quickest route to a coffee or tea place within 2 miles of here. ,navigate
+On sunday in exeter will it be overcast?,weather
+Find my friend's current address please.,navigate
+when and where is my meeting,schedule
+Will the weather be warm tomorrow in Los Angeles?,weather
+set a reminder for lab work on the 12th,schedule
+I need to get groceries.,navigate
+find me somewhere to park,navigate
+get me the weather forecast for the next 7 days,weather
+What date is my optometrist appointment on and who will be attending? ,schedule
+what is the chance of rain next week,weather
+Please get me to a gas station asap. ,navigate
+add tomorrow night's football game to my calendar for 9 pm,schedule
+navigate to the nearest hotel,navigate
+"Set a reminder about the meeting at 4 pm this week with the sales team, to discuss the company picnic",schedule
+Tell me if there will be frost in cleveland the next 7 days?,weather
+What is the date and time for dinner?,schedule
+Please set a reminder for an optometrist appointment later this week at 5pm with Marie.,schedule
+Find my home address for me car.,navigate
+Please give me the address and directions via a quick route to my friend's house. ,navigate
+Is it stormy in Manhattan now?,weather
+Will it be warm in menlo park this saturday?,weather
+Get me the address to the hospital asap.,navigate
+"Car I wanna go back home, please pick the fastest route!",navigate
+what's the weather like today and tomorrow,weather
+what is the current temperature,weather
+where's the nearest place to get a hot cup of tea,navigate
+please show me the weekly weather report,weather
+is it going to rain in the next 7 days,weather
+what's the weather going to be like for this week,weather
+Please give me all relevant information about my meeting. ,schedule
+I need to schedule a doctor appointment at 10 am. The 14th of August with Alex. ,schedule
+What is the address of my house?,navigate
+Schedule a meeting. ,schedule
+find me a nearby parking garage or parking lot,navigate
+Schedule a optometrist appointment with my aunt on Tuesday August 8th at 10 am.,schedule
+I need to find a grocery store.,navigate
+Is it gonna be hot on Saturday in Los Angeles?,weather
+search for nearby cafe,navigate
+directions to the nearest coffee shop,navigate
+please find me directions to a nearby place i can get some coffee,navigate
+Look at the seven day forecast and see if it will be hot in oakland,weather
+Find a coffee shop near me please.,navigate
+Will it be warm in New York today and tomorrow?,weather
+What parties and am I attending and what are the dates,schedule
+when should i take my medicine next,schedule
+navigate me to the nearest grocery store,navigate
+what's the weather forecast in new york,weather
+Remind me at 4pm next Wednesday about my conference with the sales team.,schedule
+get me directions to the mall,navigate
+how hot is it going to be this week,weather
+What's the quickest route to a pizza restaurant?,navigate
+is it going to snow in the next 7 days,weather
+what time do the lab results come in,schedule
+put on my calendar that i need to get my lab results this thursday at 3:30,schedule
+Will it rain in fresno over the next seven days,weather
+how many hotels are around here,navigate
+What time is the football game and who will be there?,schedule
+give me the time for my next doctor's appointment,schedule
+give me directions to the local coffee shop,navigate
+What is the date of my next tennis activity and who will be attending?,schedule
+how is the climate on friday,weather
+Find me a local hotel in my area.,navigate
+What time is my optometrist appointment and who is attending?,schedule
+direct me to the nearest starbucks,navigate
+get me directions to the nearest coffee shop,navigate
+what will the weather be like in the city,weather
+schedule a conference,schedule
+what's the temperature going to be like on friday,weather
+Im looking for a shopping mall around here.,navigate
+Is it gonna  drizzle in Manhattan during the next seven days?,weather
+Car there should be my friends house around here: do you see it on the map?,navigate
+What time is dinner and who is attending? ,schedule
+"Schedule a reminder for my tennis activity at 6pm, the tenth with father. ",schedule
+is it cloudy today,weather
+is there any rain in the local forecast,weather
+what is the date time and location of my next conference,schedule
+What's the temperature in Carson going to be on Tuesday?,weather
+is it going to snow next week,weather
+Will it be foggy in downtown Chicago on Tuesday?,weather
+i'm taking medicine on the 1st,schedule
+"Car, schedule a conference at 1pm today with the infrastructure team. ",schedule
+Will there be frost in san francisco this week?,weather
+Where is the nearest chinese restaurant?,navigate
+what's the weekly forecast,weather
+what will the weather be like in the city,weather
+What time is my football activity and who is attending?,schedule
+Find me the address of a shopping center.,navigate
+Will it be stormy in San Mateo on Sunday?,weather
+i have to go grocery shopping can you give me directions to the nearest grocery store,navigate
+Where is there a coffee or tea place around. Find me one that will get me there the quickest with the least traffic,navigate
+what day is my next meeting we will it end and what are we going to do,schedule
+"Good day car, I would like to schedule a meeting at 9 am, next Wednesday with management to discuss the merger. ",schedule
+"Car I need to get to my friends house, it should be within 4 miles from here",navigate
+When is my tennis match?,schedule
+Car I need a parking garage within 5 miles of my current position,navigate
+what's the forecast for today,weather
+Please schedule a reminder for my doctor appointment at 11am on August 3rd with Alex.,schedule
+navigate me to the nearest hotel,navigate
+what is the forecast for this week,weather
+"Set a reminder for a dentist appointment this month on the 11th at 11am, with Tom.",schedule
+What's the forecast in Brentwood for Sunday?,weather
+what's the weather like in grand rapids,weather
+I need a parking garage that is in the 2 mile range.,navigate
+directions to local cafe,navigate
+Please give me the address and directions via a quick route to my friend's house. ,navigate
+how is the weather in the city this weekend,weather
+"Hi, what time and date is my swimming activity?",schedule
+Check the next 48 hours and tell me if it's supposed to be stormy in San Francisco,weather
+Info for lab appointment,schedule
+Is durham stormy right now?,weather
+What is the date of my next doctor appointment and who will be attending it with me?,schedule
+take me to the nearest shopping center,navigate
+Schedule swimming. ,schedule
+Schedule a reminder about a doctor appointment with my mother at 11am on the 7th of this month.,schedule
+"What is the date, agenda, and time of my next meeting.",schedule
+find me a nearby tea or coffee shop,navigate
+will it be cloudy,weather
+Find what the temperature will be in downtown Chicago this weekend.,weather
+does the forecast say it will snow,weather
+Where does my friend live?,navigate
+Will it be stormy in Exeter on Wednesday?,weather
+bring me to the nearest starbucks,navigate
+When is my dentist appointment and who is coming?,schedule
+What day do I need to take my medicine and who will be there?,schedule
+take me to the closest starbucks,navigate
+What is the date of my next medicine event and who will be attending?,schedule
+i have an eye doctors appointment on the 12th at 5 pm,schedule
+Remind me about my optometrist appointment with Jon at 2 pm at the end of March,schedule
+On what date is my doctor's appointment and who is going?,schedule
+"Set a reminder for my lab appointment at 2pm, this Tuesday with father. ",schedule
+what is the temperature going to be like this week,weather
+"Car I need to get at my friends house near my current location, please send me their address on the screen",navigate
+give me directions to the closest grocery store,navigate
+Where can I get Chinese food?,navigate
+search for nearest fast food restaurants,navigate
+show me the weather for the next 7 days,weather
+set reminder to take my medicine on the 12th at 3 pm,schedule
+"Car, remind me to take my medicine at 2 pm, Monday August 8th. I need you to add Jeff to the parties involved. ",schedule
+what is the weather today and tomorrow,weather
+where is the house,navigate
+please give me directions to a nearby parking garage parking lot,navigate
+what is the forecast for today and tomorrow,weather
+What's the weather gonna be like on Friday in Corona?,weather
+Will it be foggy in Redwood City on Wednesday?,weather
+where can i go to eat,navigate
+find me directions to the nearest hotel,navigate
+let me know if there will be snow and ice in the next week's forecast,weather
+Could you tell me if there will be clear skies in Carson on Friday?,weather
+please give me an alternate route home,navigate
+Where can I get Chinese food?,navigate
+give me directions to the closest chinese food restaurant,navigate
+"What is the time and agenda for my meeting, and who is attending?",schedule
+Remind me about my football activity with my father at 5 pm.,schedule
+"Set a reminder for my dentist appointment tomorrow at 9 am, with Tom",schedule
+what time is my appointment today,schedule
+Schedule a meeting today at 9 am with management to discuss the company picnic.,schedule
+Remind me about the football activity at 4pm on the 13th with Tom,schedule
+set my route to the closest mall,navigate
+Schedule a lab appointment with my aunt for the 7th at 1pm.,schedule
+Is the weather going to be dry in Brentwood on Wednesday?,weather
+doctor's appointment at 10 am on monday august 8th,schedule
+What is the date and time of my next dentist appointment.,schedule
+schedule an appointment,schedule
+what time should i get my shot this afternoon,schedule
+what is the weather like in new york this week,weather
+i'd like to know where i can get some chinese takeout,navigate
+Schedule a yoga activity with Jon on Wednesday at 1pm.,schedule
+please give me directions to 5677 springer street,navigate
+take me to the closest mall,navigate
+On wednesday will there be dew in alhambra,weather
+"Set a reminder for an optometrist appointment at 4pm, August 3rd. Make sure my Aunt is there.",schedule
+which days will be cloudy this week,weather
+Find out the time and parties attending for my yoga activity. ,schedule
+where can i find tea around me,navigate
+Who is going to yoga and when is it? ,schedule
+navigate home,navigate
+Will there be drizzle in Oakland on Sunday?,weather
+car is it going to snow today,weather
+confirm meeting,schedule
+set a reminder for lab work on the 12th,schedule
+Car I need a parking garage closest to my position: help me please!,navigate
+I need a parking garage around here.,navigate
+Is there a Philz near?,navigate
+Schedule a dentist appointment with my aunt on the 4th at 6pm.,schedule
+add the football game to my calendar,schedule
+I need information for my upcoming conference.,schedule
+find me a hotel nearby,navigate
+I'm in need of coffee: is there any near my current location?,navigate
+show the route to my friend's house,navigate
+Tomorrow will there be frost in manhattan?,weather
+"Hi car, help me find out the location, parties attending, and time for my meeting, please. ",schedule
+What time is dinner and who is going?,schedule
+Find me a parking garage around me. ,navigate
+Are there chinese restaurants nearby,navigate
+remind me to swim tomorrow,schedule
+I need a reminder for a yoga activity at 7 pm on Thursday with Jeff.,schedule
+Will it be overcast in Cleveland on Sunday?,weather
+is it going to snow in the next week,weather
+when is my next dentist appointment,schedule
+can you please take me to a coffee house,navigate
+give me directions to the nearest grocery store,navigate
+"Can you set my schedule for a dentist appointment at 10 am, the 15th of this month with Jon?",schedule
+what's the weekly forecast for cleveland,weather
+remind me that i have a laboratory appointment at 4:45,schedule
+is it cloudy in the next 7 days,weather
+Set a reminder for tennis next month on the 13th at 6pm with my aunt.,schedule
+Car is there any shopping center nearby? Please show me a quick route to reach too!,navigate
+add the football game to my calendar,schedule
+schedule dentist appointment,schedule
+Please give me the address and directions via a route with no traffic to the nearest pizza restaurant. ,navigate
+Schedule Yoga with Marie at 4pm on the 5th of this month,schedule
+update me on the weekly weather forecast for this week,weather
+Locate any hospitals in the area.,navigate
+"I need you to remind me of my football activity at 3pm, Saturday with Ana. ",schedule
+"Set a schedule for dinner at 2pm, Sunday with mother.",schedule
+Car I need to go to a shopping center: is there any around me?,navigate
+What is the date and time of my next lab appointment.,schedule
+what day is the meeting in the conference room,schedule
+What is the date and time of my optometrist appointment?,schedule
+When is my optometrist appointment and who is attending?,schedule
+will it rain anytime in the next week,weather
+Will it be overcast today in Grand Rapids?,weather
+what is the weather going to be today and tomorrow,weather
+what is the weather like today and tomorrow,weather
+give me directions to a coffee place,navigate
+Set a reminder for optometrist appointment on the 15th at 6PM with Marie.,schedule
+remind me to watch football on sunday,schedule
+how hot is it going to be this week,weather
+"Car I desire to eat Chinese today, please pick a restaurant within 5 miles and avoid all heavy traffic",navigate
+I need the quickest route to the hospital. ,navigate
+Schedule a doctor appointment and my sister is coming along. ,schedule
+which days are rain forecasted,weather
+"Car I wanna get home: we should be within 4 miles from it, please pick the shortest distance",navigate
+what's the temperature going to be this week,weather
+Will it be humid in San Jose next week?,weather
+schedule reminder for tennis practice on the 12th of next month,schedule
+What day and time do I need to take my meds?,schedule
+will it rain anytime in the next week,weather
+What date is the football game and who is attending? ,schedule
+When is my dentist appointment and who is attending?,schedule
+set a reminder to go to conference room 104 the meeting on the 12th,schedule
+Car I need a parking garage!,navigate
+Please give me the address and directions via a route with no traffic to a rest stop within 2 miles. ,navigate
+Schedule a dentist appointment with Jeff for next Wednesday at 1pm.,schedule
+will it rain next week,weather
+Set a reminder for a swimming activity at 7 pm Wednesday with my sister.,schedule
+What is the time and location of my next meeting and who will be attending?,schedule
+I need a reminder for taking my medicine on August 14th at 7 pm with brother. ,schedule
+find out if it's supposed to rain,weather
+find me a nearby shopping mall shopping center,navigate
+What time is my football activity and with who?,schedule
+set a reminder to see my dentist at 12 pm tomorrow,schedule
+On Saturday in camarillo will it be cloudy?,weather
+show me directions to the nearest grocery store,navigate
+i am doing yoga with my brother Wednesday,schedule
+i need directions to a grocery store,navigate
+Schedule an optometrist appointment at 2 pm with Jon.,schedule
+please give me directions to the nearest starbucks,navigate
+Will it be foggy in brentwood on friday?,weather
+remind me to check for the laboratory results tomorrow,schedule
+please make an appointment on tuesday for me to see the doctor,schedule
+bring me to the nearest grocery store,navigate
+what is the weather for the next 7 days,weather
+I need a reminder for my doctor appointment on the 1st at 2 pm with Ana. ,schedule
+Schedule a meeting with the infrastructure team to go over budget on Thursday at 5pm.,schedule
+how many hotels are around here,navigate
+give me directions to the nearest parking garage,navigate
+where's the closest place to park,navigate
+When is my doctor's appointment?,schedule
+take me to the nearest hotel,navigate
+what is the forecast for the city this week,weather
+what is the weather like today,weather
+what time is my appointment today,schedule
+what time is my meeting,schedule
+give me the date and time of my dentist appointment,schedule
+give me directions to the nearest place to get to eat,navigate
+Where can I get tea?,navigate
+How is the weather this week in Inglewood?,weather
+what is the temperature going to be like this week,weather
+"Get my home address that is near my location,",navigate
+What is my address?,navigate
+Is there going to be hail in Los Angeles this weekend?,weather
+what is the weather forecast for the upcoming week,weather
+Schedule dinner with Martha later this week at 11am.,schedule
+In Boston is it currently misty?,weather
+take me to the nearest chinese restaurant,navigate
+I need to find the fastest route to the nearest gas station. ,navigate
+is it going to be raining this weekend,weather
+What is my address?,navigate
+Please remind me I'm going to a swimming party at 5 pm on July 7th with Martha,schedule
+Where is the parking garage in the area?,navigate
+Looking at the weekly forecast will in snow in los angeles?,weather
+I need a gas station with the least amount of traffic.,navigate
+what will the weather be like tomorrow,weather
+what's the current temperature outside,weather
+What will the high temperature be for Los Angeles? ,weather
+find nearest coffee shop,navigate
+What is my home address?,navigate
+what is today's weather forecast,weather
+when is my next yoga class scheduled,schedule
+Is it going to be hot in Grand Rapids on Thursday?,weather
+Schedule a reminder to take medicine with my aunt on the 10th at 1pm.,schedule
+Where can I get Chinese food?,navigate
+"On what date is my conference? What is it about, and who will be there?",schedule
+what day is the football game,schedule
+Where can I get gas?,navigate
+what is the forecast for today's weather,weather
+what's the forecast report,weather
+Car I need a gas station within 5 miles,navigate
+This weekend will there be any drizzle in los angeles?,weather
+I need to schedule a conference. ,schedule
+Schedule a yoga activity at 5 pm Wednesday with Ana. ,schedule
+is it supposed to rain this week,weather
+What time is my optometrist appointment and who is attending?,schedule
+Can you tell me who's attending my next tennis activity? Also the date? ,schedule
+Where is the nearest hospital?,navigate
+Find the address to my home in the local area.,navigate
+what is the date location and time of my next conference,schedule
+check weather forecast for seattle,weather
+Where can I find a rest stop?,navigate
+find route to the hospital,navigate
+what is the weather for next week,weather
+What is the date of my next lab appointment and who will be attending it?,schedule
+in which day do i have doctor's appointment,schedule
+schedule a meeting for 2 pm,schedule
+Who is going to my optometrist appointment and what time is it?,schedule
+Is there a Whole Foods here?,navigate
+What is the date of my swimming activity and who is attending?,schedule
+remind me about that meeting later,schedule
+set a date for the next tennis match,schedule
+Will it be warm in Cleveland next week?,weather
+set an appointment for swimming,schedule
+what time is my meeting today,schedule
+Will it be misty in Los Angeles today?,weather
+Will there be cloudy weather in Atherton in the next 7 days?,weather
+Car I'm desiring to have pizza!,navigate
+Will it be frost during the weekend in Boston?,weather
+"What is the date, time, and agenda for my next conference? ",schedule
+give me a quick route to a grocery store,navigate
+set alarm for dinner tonight,schedule
+check today's weather,weather
+Where does my friend live?,navigate
+which days are rain forecasted,weather
+what's the weather going to be like for this week,weather
+When is my lab appointment?,schedule
+What is today's forecast in San Francisco?,weather
+schedule meeting,schedule
+can you tell me what day and what the agenda is for the business meeting i have in the 100 conference room,schedule
+Please set a reminder that I have a conference call with the VP on August 14th at 6pm.,schedule
+Schedule me a lab appointment at 2pm with Marie.,schedule
+Look up brentwood and find out if it will drizzle on sunday?,weather
+is it going to snow in the next week,weather
+Check to see if it will be cloudy in mountain view this saturday,weather
+Look in mountain view and tell me if there will be hail this weekend,weather
+Will it hail in Danville today and tomorrow?,weather
+what is the weather like in boston,weather
+What time and date do you have for my football activity?,schedule
+What day is my optometrist appointment  and with who?,schedule
+Tomorrow I'm going to go in Inglewood: will I find clear skies there?,weather
+what will the temperature be for the next week,weather
+I need the address to a parking garage. ,navigate
+Where can I get tea?,navigate
+update me on the weekly weather forecast for this week,weather
+what's the temperature going to be this week,weather
+Find out the parties that are attending my football activity. Also find the time. ,schedule
+is it supposed to snow today,weather
+how cloudy is it going to be for the next week,weather
+Where can I get pizza?,navigate
+when is my next dental appointment,schedule
+Please give me the address and directions by a route with no traffic to a pizza restaurant near me. ,navigate
+is it going to rain this week,weather
+put on my calendar that i need to get my lab results this thursday at 3:30,schedule
+What time is my lab appointment and who is attending?,schedule
+Please give me an address and directions via the fastest route to a shopping center. ,navigate
+Schedule an optometrist appointment ,schedule
+what's the weather going to be today and also what is the weather going to be this week,weather
+can you give me directions to the grocery store,navigate
+"I'd like the address to a friend who lives close to where I am, with directions for the fastest route possible.",navigate
+What types of pizza can I get around here,navigate
+"Car I need to get to my friends house, it should be around here: could you please show on the map the fastest road to get there?",navigate
+Can you find me a nearby shopping center?,navigate
+Schedule dinner with my sister please. ,schedule
+what time is my swimming lessons this afternoon,schedule
+reminder of a doctor's appointment at the end of march,schedule
+"Where is the meeting and when is it, also who is attending?",schedule
+Will there be dew in Danville today?,weather
+What is the lowest temperature in Oakland right now?,weather
+Is it gonna be humid in Grand Rapids on Wednesday?,weather
+Set reminder for dinner on Thursday at 2 pm with mother. ,schedule
+Find the closest parking garage.,navigate
+I need to find out the time and date for my tennis activity. ,schedule
+schedule a meeting for monday the 1st,schedule
+What is my address?,navigate
+navigate to nearest chinese food place,navigate
+when is the next cloudy day,weather
+Will it be misty in compton the next seven days?,weather
+when is my optometrist's appointment on the 12th,schedule
+Tell me if it will be cloudy in menlo park tomorrow,weather
+What is the weather forecast in Los Angeles over the next few days?,weather
+give me directions to my house,navigate
+"Can you set my calendar for Football activity at 1pm, the 4th, with Tom?",schedule
+what is the weather like for tomorrow night,weather
+What is the time and date of my doctors appointment?,schedule
+find me a nearby coffee shop specifically starbucks,navigate
+where's the closest place to park,navigate
+"How many people are attending the tennis party, and at what time?",schedule
+take me home,navigate
+next doctor's appointment,schedule
+navigate to my friend's home please,navigate
+When is my tennis activity?,schedule
+Will there be hail in the forecast for Oakland next week?,weather
+put my doctor's appointment on my calendar,schedule
+find the closest starbucks,navigate
+What date and location is my conference and who is going to be attending?,schedule
+when is my lab appointment,schedule
+what is the weather supposed to be like for the next week,weather
+Get me the address to a hospital that is no more than 2 miles away.,navigate
+does the local forecasts say it'll be cloudy,weather
+give me directions to the nearest shopping center,navigate
+check the date and time of my doctor's appointment,schedule
+i need directions to a grocery store,navigate
+when am i supposed to swim tomorrow,schedule
+is it going to be overcast or cloudy at all any day this week,weather
+how long to the nearest grocery store,navigate
+find directions to home,navigate
+"Car I need to rest in a hotel, please send me the quickest option available",navigate
+What is my home address?,navigate
+is it going to be raining this weekend,weather
+What shopping centers are around me?,navigate
+Remind me about my optometrist appointment at 11am on Monday the 1st with Jeff,schedule
+Who is attending my dentist appointment and when is it?,schedule
+Car I need to reach my friends house in this local area: pick the route with the shortest distance too please,navigate
+Where can I get Chinese food?,navigate
+i need directions to my house and avoid all heavy traffic,navigate
+what's the temperature,weather
+directions to the grocery store,navigate
+Is it gonna be cloudy in New York today and tomorrow?,weather
+how's the weather in new york,weather
+"Car I need a parking garage in the area, pick a quick route too",navigate
+Is there a parking garage around here? ,navigate
+What is my home adddress?,navigate
+Is it gonna frost today in Cleveland?,weather
+What is the date and time for the meeting and what is the agenda?,schedule
+Where is a nearby parking garage?,navigate
+i have to go grocery shopping can you give me directions to the nearest grocery store,navigate
+Find home address for me within 4 miles.,navigate
+Which one will be the lowest temperature in Danville during the next week?,weather
+where are the nearest coffee shops,navigate
+what time is my doctor appointment,schedule
+what's the temperature,weather
+I need the fastest route to the hospital.,navigate
+Car I wanna do shopping: is there any shopping center near my current location?,navigate
+What time and date is my doctor appointment?,schedule
+Where can I get pizza?,navigate
+I need information about my conference. ,schedule
+When is the next yoga lesson and who is coming with me?,schedule
+What is the date and time for my yoga activity?,schedule
+is it going to snow in the next week,weather
+schedule of yoga class,schedule
+quickest route home,navigate
+what is the weather like right now,weather
+"How far away from home am I, i need to the route with the shortest distance and the address",navigate
+What is the date and location of my meeting and who is attending?,schedule
+take me to a chinese restaurant,navigate
+give me directions to a coffee shop,navigate
+Where is a hospital within 4 miles?,navigate
+where's the nearest place to get a hot cup of tea,navigate
+"I think I have a friend who lives around here, what is their address, and find me the quickest route there",navigate
+what is the chance of rain next week,weather
+need directions to the nearest hotel,navigate
+What time is swimming and who is coming with me?,schedule
+find a tea shop,navigate
+find me somewhere to park,navigate
+find the nearest shopping mall,navigate
+will it rain next week,weather
+will it be raining in the next 7 days,weather
+Quickly find me the closest chinese restaurant to my location.,navigate
+what will the temperature be for the next week,weather
+Schedule a swimming activity with Marie on the 5th at 10am.,schedule
+car what is the weather going to be like in the next several days,weather
+Where can I get coffee?,navigate
+what is the weather like in boston,weather
+is it going to be cloudy in the next 7 days,weather
+take me to the nearest cafe,navigate
+set reminder for yoga class on the 12th of this month,schedule
+is it raining today,weather
+Where is the nearest pizza place?,navigate
+Remind me to go to the optometrist at 5pm today with my father.,schedule
+check the weather,weather
+Set an event for football game this week at 5pm with my brother. ,schedule
+What day is my meeting? ,schedule
+is there snow in the forecast for the week,weather
+Will it be snowing in Mount View over the next 2 days?,weather
+Will it be foggy in Carson over the weekend? ,weather
+Is it going to drizzle in Boston this week?,weather
+What is the date of my lab appointment and who will be attending it?,schedule
+add my dentist appointment to the calendar,schedule
+What people have sent an RSVP or responded for the party so far? What time will the party begin? What activities are on the agenda for the party?,schedule
+search for nearby cafe,navigate
+I need to schedule a lab appointment. ,schedule
+will it be cloudy,weather
+is there dew on the weekend,weather
+is it going to snow any this week,weather
+What is the location and agenda of my next meeting and who will be attending?,schedule
+directions to the grocery store,navigate
+can i get the two day weather report,weather
+what time is my meeting scheduled,schedule
+give me the weekly weather forecast,weather
+What gas stations are near?,navigate
+Is it raining in Fresno now?,weather
+Is it being frost today in San Jose?,weather
+what are the directions to the mall,navigate
+What is the date and time of my next dentist appointment?,schedule
+i'm taking medicine on the 7th,schedule
+Where can I get tea?,navigate
+"Please give me the address and directions to my friend's house within 5 miles of here, avoiding all heavy traffic. ",navigate
+What's the lowest temperature in redwood city this week?,weather
+"Im heading home, what is the address and find me the quickest route with no traffic",navigate
+what's the weather like today,weather
+"I need a grocery store near me, with no traffic.",navigate
+When is my swimming activity and who is attending?,schedule
+Schedule a swimming activity with my brother on August 22nd at 2pm.,schedule
+get me the weather forecast for the next 7 days,weather
+remind me i have a doctors appointment on the 12th at 5 pm,schedule
+look for parking,navigate
+Over the next few days in camarillo will there be any rain?,weather
+Find me the closest parking garage.,navigate
+give me directions home,navigate
+take me to the parking garage closest to my destination,navigate
+tell me what the weather will be like tomorrow,weather
+On what day will be the lowest temperature this weekend in compton?,weather
+what's the temperature outside like today,weather
+Please add my optometrist appointment to my schedule for August 3rd.,schedule
+What time is my meeting and at what location?,schedule
+Will it drizzle in San Mateo this weekend?,weather
+What is the address of my friends house?,navigate
+take me to the nearest chinese restaurant,navigate
+is there any traffic on the route home,navigate
+show me the direction to the closest mall,navigate
+i need to schedule a doctor's appointment,schedule
+What is the date of my lab appointment and who is coming with me .,schedule
+Who is going with me to the lab appointment and what day is it?,schedule
+is it going to be hot on friday,weather
+confirm that the meeting for the 12th this month is on at approximately 5 pm,schedule
+get me directions to the nearest coffee shop,navigate
+tell me the weather forecast for this week,weather
+check weather for new york city,weather
+give me the forecast for the next 7 days,weather
+set an appointment to get shots next week,schedule
+Remind me about dinner at 6 pm with my brother,schedule
+Where is a rest stop within 5 miles?,navigate
+What is the 48 hour forecast for oakland?,weather
+Is it gonna rain during the next week in Boston?,weather
+"Hello car, can you schedule a conference for 4pm, this month on the 11th with HR?",schedule
+Can you find me a chinese restaurant within 4 miles?,navigate
+Schedule a swimming activity at 11am today with my father.,schedule
+I need groceries.,navigate
+find me a nearby coffee shop specifically starbucks,navigate
+set a reminder for tennis,schedule
+set reminder for yoga class on the 12th of this month,schedule
+"Can you schedule a doctor appointment at 10 am, Monday the 1st, with Martha?",schedule
+tell me when my next tennis game is,schedule
+When is taking medicine scheduled and who is attending?,schedule
+Set a schedule for playing tennis with Marie,schedule
+what is the temperature,weather
+"Can you schedule a reminder for my football activity at 7pm the 8th, with Martha? ",schedule
+Can you tell me what time my next doctor's appointment is and if anyone is joining me?,schedule
+find the nearest parking garage,navigate
+is it going to snow next week,weather
+Schedule a doctor Appointment. ,schedule
+what's the forecast going to be for today and tomorrow,weather
+There will be any overcast in Oakland on next weekend?,weather
+what's the weather going to be like this week,weather
+Where can I get groceries?,navigate
+navigate to the closest restaurant,navigate
+I need to find out the date and whoever is attending my lab appointment. ,schedule
+When is yoga and who is attending?,schedule
+Is it supposed to drizzle in danville this thursday?,weather
+Where can I go shopping?,navigate
+Please give me the high temperature for New York for the next seven days. ,weather
+get directions to the nearest parking garage,navigate
+what is the temperature outside,weather
+is it raining today,weather
+Is it raining in Brentwood now?,weather
+i need to take medicine on sunday,schedule
+Where can I get gas?,navigate
+What's the time and date for the soonest yoga session?,schedule
+When are we getting together for football? And who's coming?,schedule
+Where does my friend live?,navigate
+"Car I need to get to the nearest shopping center, and I need the fastest route.",navigate
+what's the weather like on my drive today,weather
+remind me of my doctors appointment on the 8th at 2 pm,schedule
+what's the weather like today and tomorrow,weather
+What grocery stores are around?,navigate
+i would like to schedule a meeting on the 12th what is my agenda for that day,schedule
+What time is my tennis activity and who is attending?,schedule
+"Good morning car, I'd like to schedule a conference at 7pm, next Wednesday with HR please. ",schedule
+what is the temperature outside,weather
+Schedule a football activity at 10 am on the 29th with my aunt.,schedule
+what is the weather forecast for the upcoming week,weather
+Find me a coffee shop that is closest to my location.,navigate
+What is the date of my next doctor appointment and who will be attending?,schedule
+Set a reminder for yoga activity at 5 pm on Thursday with mother. ,schedule
+is it going to rain today,weather
+find me the nearest grocery store,navigate
+Where can I get pizza?,navigate
+when do i have dinner planned for,schedule
+when is my next conference,schedule
+what is the weather like today in tomorrow,weather
+what is the weather forecast for the next 7 days,weather
+"Hi car, can you find out the time and the parties involved for my Yoga activity? Thanks. ",schedule
+What is the date and time of my next tennis activity?,schedule
+find the closest parking lots to me please,navigate
+Where are the pizza places around here?,navigate
+please give me a list of hotels that are near me in the direction,navigate
+Quickest route to home please.,navigate
+will i be able to make it to my meeting on time,schedule
+set reminder for eye doctor appointment on the 12th at 3 pm,schedule
+Car please show me my home in the map and pick a route with no traffic,navigate
+Can you find me the fastest route to a parking garage?,navigate
+what's the forecast for today,weather
+where's the nearest place to get a hot cup of tea,navigate
+what's the forecast for the weather today,weather
+Please look up the date and time of my swimming activity.,schedule
+"Car I need a hotel, please pick the fastest place to reach",navigate
+Will it be any blizzard on Sunday in Alhambra?,weather
+What parties am I attending and what are the dates and times?,schedule
+"What is the location, date, and agenda of my meeting?",schedule
+give me the closest fast food restaurant,navigate
+What time is my medicine and who is involved? ,schedule
+Schedule a football game on tuesday at 6pm with Marie,schedule
+give me weather forecast for today,weather
+what is today's forecast,weather
+what's the weather like on my drive today,weather
+Quickest route to my friends house.,navigate
+check weather forecast for seattle,weather
+car set up appointment for the 12th for my doctor on the calendar,schedule
+directions to the parking garage,navigate
+Schedule a meeting with HR for 1PM Tuesday to onboard new members.,schedule
+I need groceries.,navigate
+can you give me directions to a fast food place that serves pizza,navigate
+Set a reminder for my tennis match with my aunt on the 12th of this month at 9am.,schedule
+Where are there rest stops?,navigate
+what's on the agenda for today's meeting,schedule
+What day and time is my swimming activity?,schedule
+Find me the fastest route home and the address ,navigate
+I need the quickest route to a shopping center. ,navigate
+Could you tell me what day and time my meeting is on? ,schedule
+you tell me if the forecast for the next week calls for it to be above 86 degrees on any day,weather
+Schedule a swimming activity with Jon on Thursday at 4 pm.,schedule
+bring me to the nearest starbucks,navigate
+i need directions to a local fast food restaurant please,navigate
+tell me all the events and meetings scheduled on my calendar for today,schedule
+check forecast for today and tomorrow,weather
+what's the weekly forecast for cleveland,weather
+Please schedule me an optometrist appointment at 2pm this week with Jon.,schedule
+"Car please bring me to my friends house, it should be near me",navigate
+i have a meeting tomorrow at 5 pm remind me 10 minutes before hand and attach my agenda to the calendar at 3,schedule
+how hot is it going to be this week,weather
+Will there be drizzle in Oakland tomorrow?,weather
+Will there be a blizzard in Seattle over the next 7 days?,weather
+what is the forecast for the rest of the day,weather
+is it raining next week,weather
+what is the weather like in the city,weather
+i have an optometrist appointment the 7th at 3pm,schedule
+what is the weather like in the city,weather
+What will the temperature in Redwood City be for the next 7 day period?,weather
+find me all the nearest hotels,navigate
+what's on the agenda for today's meeting,schedule
+what day is the meeting in the conference room,schedule
+Find me Chinese food.,navigate
+what's the weather like this week,weather
+I need a reminder set for my lab appointment at 5pm today. Jeff is joining. ,schedule
+check the weather forecast,weather
+is there a chance of snow in this weeks weather forecast,weather
+start listening what will be the weather for the week,weather
+can you set a reminder that i have a dinner at 7pm with Marie,schedule
+give me directions to the nearest coffee place,navigate
+Set a reminder for dinner at 9am next Wednesday with mother,schedule
+what's the weather forecast for today and tomorrow,weather
+"Car I'd like to have some coffee, please show me the closest cafe",navigate
+what's the weekly forecast,weather
+schedule a meeting for monday the 1st,schedule
+take me to the nearest hospital,navigate
+check the date and time for my swim lesson,schedule
+What is the date of my optometrist appointment and who will be attending it?,schedule
+can you give me the weather this week for new york city,weather
+take me to the nearest shopping center,navigate
+Where does my friend live?,navigate
+get me the time of the doctor's appointment,schedule
+Where is the nearest parking garage?,navigate
+Can you tell me if Carson is going to be cloudy this weekend?,weather
+Is there a Philz here?,navigate
+When and where is my conference and who is attending?,schedule
+Where is the nearby grocery store?,navigate
+what is the local weather forecast for this week,weather
+What is the date and time i should take my medicine?,schedule
+Please remind me to take my medicine at 7 pm today with my mother.,schedule
+What day are the football parties I'm going to?,schedule
+Is it going to rain in New York next week?,weather
+I'm really in need of coffee: is there anything with no traffic between my coffee and me?,navigate
+schedule meeting,schedule
+Schedule tennis for 10am on the tenth with Tom,schedule
+Schedule  a reminder that I have an optometrist appointment at 4 PM with Alex next month on the 13th.,schedule
+Find me a gas station and the quickest way there,navigate
+Schedule a conference at 1 pm with management. ,schedule
+need directions to the nearest hotel,navigate
+What's the shortest distance to the nearest rest stop?,navigate
+Will it be dry in carson on thursday?,weather
+"Remind me about going swimming on the 7th with dad, at 2 pm",schedule
+navigate to the nearest mall,navigate
+set a meeting in the conference room 100,schedule
+Schedule a tennis activity for 3 pm on Saturday with my father.,schedule
+give me the full weekly weather forecast,weather
+take me to the closest parking,navigate
+where's parking,navigate
+Is it gonna be humid in San Jose on the next week?,weather
+I need information about my yoga. ,schedule
+Will it be windy in Cleveland Thursday?,weather
+where's the nearest shopping mall,navigate
+what is the forecast in my city,weather
+Will the weather be overcast in Atherton over the next 7 days?,weather
+What are the directions for the nearest shopping center without traffic?,navigate
+tell me the temperature for this week,weather
+set a reminder for the conference,schedule
+find nearest chinese restaurant,navigate
+when is the meeting,schedule
+tell me when my dinner reservations are scheduled for,schedule
+I want pizza.,navigate
+can you give me directions to the grocery store,navigate
+is it going to snow any this week,weather
+remind me that i have a meeting tomorrow,schedule
+Car I want to do some shopping in some local shopping center: is there any nearby?,navigate
+Set a reminder for a meeting to sign the NDA on the 7th at 2pm with the vice president ,schedule
+set reminder for yoga classes on the 12th of this month,schedule
+Tell me when i'm going swimming,schedule
+Schedule a tennis activity with Alex on the 13th at 11am.,schedule
+what time is my yoga appointment,schedule
+What time is my football activity and who is attending?,schedule
+show me the weather for the next 7 days,weather
+what is the weather for today,weather
+Find a chinese take-out spot near my location.,navigate
+what is the weather forecast like in the city,weather
+get directions to the nearest hotel,navigate
+check out my appointment,schedule
+find out what time my eye doctor appointment is,schedule
+tell me how to get to shopping mall,navigate
+Will it be misty in Alhambra on Monday?,weather
+Is there going to be dew in San Francisco on Thursday?,weather
+give me this week's high temperature,weather
+what's the weather like,weather
+Get me the home address of my friend that is the closest to my location.,navigate
+Schedule an optometrist appointment next Friday at 4 pm with Tom,schedule
+when am i taking my medicine,schedule
+Find me a hospital with the least amount of traffic on the way.,navigate
+what is the date and time of the meeting,schedule
+Check and see if it will be humid in Inglewood on Tuesday,weather
+what's the weather like in downtown chicago,weather
+Set a reminder for the 15th at 6pm. Conference with the executive team. ,schedule
+"Schedule a meeting at 4pm today, with the boss, to discuss dress code",schedule
+can you give me the weather this week for new york city,weather
+"Please schedule a dentist appointment at 3pm the 7th, with aunt.",schedule
+get directions to the nearest parking garage,navigate
+Will it hail in Menlo Park on Monday?,weather
+I want coffee.,navigate
+Will there be rain in the forecast for Cleveland for the next 7 days?,weather
+Where do I live?,navigate
+What time is my next football activity and who will be attending?,schedule
+how long to the nearest grocery store,navigate
+Can you look up the what time my football game is this week?,schedule
+i need to schedule a conference room,schedule
+show me nearby parking,navigate
+Where can I eat pizza?,navigate
+i'm looking for a place to eat can you show me directions to the nearest fast food restaurant,navigate
+is there any rain in the local forecast,weather
+"I need to find out the date and time of my Dentist appointment, please. ",schedule
+check the weather for today,weather
+remind me about meeting later,schedule
+Please give the address and directions via the fastest route to a hospital. ,navigate
+Where is my home?,navigate
+What is the current high temperature in Atherton? ,weather
+Schedule a dentist appointment with Ana for the 15th of this month at 2pm.,schedule
+find weekly weather forecast,weather
+what time is my yoga appointment,schedule
+please tell me about the time and date my next meeting is scheduled for and what i hope to accomplish it,schedule
+where's parking,navigate
+Where can I get groceries?,navigate
+is snow forecasted this week,weather
+Set a reminder for tennis at 2 pm with Tom next month on the 13th.,schedule
+where is the nearest grocery store,navigate
+I need to go home and avoid the heavy traffic. ,navigate
+what's the temperature going to be this week,weather
+show me directions to the nearest starbucks,navigate
+Schedule a meeting for 6 pm with HR,schedule
+add tennis on wednesday at 5 to my calendar,schedule
+What time do I need to take my medicine? ,schedule
+Set a reminder for dentist appointment at 5 pm on the 2nd with Ana. ,schedule
+Find out the date and time for my Swimming activity. ,schedule
+find me a place where i can buy coffee or tea,navigate
+Get the address to my home that is within 3 miles and hurry.,navigate
+Who is attending my swimming activity and when is it?,schedule
+find me a place i can go to sit and drink coffee or tea,navigate
+Any chinese restaurant around me?,navigate
+Schedule a football activity with Martha on Sunday at 4pm.,schedule
+is it supposed to rain this week,weather
+give me the 7 day weather forecast,weather
+What is the time and date for my yoga activity?,schedule
+Will it be foggy in Seattle today and tomorrow?,weather
+"What time is my meeting, what is the agenda, and who is going?",schedule
+find me the best parking spot,navigate
+Please guide me to the closest parking garage. ,navigate
+"Car I need a hotel, please find something near my current location",navigate
+What day and time is my football activity?,schedule
+What is the date and time of my next swimming activity?,schedule
+set a reminder for doctor's appointment,schedule
+is it going to snow this week,weather
+remind me about dinner tonight,schedule
+what is the weather like today and tomorrow,weather
+let me know if there will be snow and ice in the next week's forecast,weather
+Where can I get gas?,navigate
+what's the weather like today,weather
+Look at today and tomorrow and tell me if it will be cloudy in compton,weather
+Where can I get Chinese food?,navigate
+Locate a parking garage around my current location.,navigate
+is it going to snow today,weather
+Schedule a yoga activity with my father on the 3rd at 3 pm.,schedule
+Set a reminder that I have a lab appointment with my aunt next Wednesday at 1pm,schedule
+check weather,weather
+Check to see if it will be windy in brentwood the next few days,weather
+car what is the date and time of my next appointment with my optometrist,schedule
+I need a no traffic route to a rest stop. ,navigate
+i feel like some coffee where's the nearest place,navigate
+what's the weather like today and tomorrow,weather
+Set a reminder for a conference with vice president at 3 pm on Saturday. ,schedule
+Will it be cloudy in Oakland this week?,weather
+what is the weather like today,weather
+Is there any stormy weather predicted in Corona over the next 48 hours?,weather
+Find out the parties attending and the time for my soonest lab appointment. ,schedule
+"Car my home should be around here, please send me the info on screen, I must be a little drunk..",navigate
+Please give me the address and directions to my friend's house by the fastest possible route without heavy traffic.,navigate
+what is the weather for next week,weather
+will it be cloudy this week,weather
+set up a group meeting at the conference room for next week,schedule
+start listening what will be the weather for the week,weather
+Where can I find a rest stop?,navigate
+will it be cloudy,weather
+Please give me the address and directions via the shortest distance to a rest stop around here. ,navigate
+Schedule a conference with the sales team on the 6th at 9am.,schedule
+How is the weather this week,weather
+get me directions to the nearest shopping mall,navigate
+"Please give me the address and directions for a hotel within 4 miles of here, avoiding all heavy traffic. ",navigate
+i need to set up a reminder to go to the dentist,schedule
+set a reminder for the conference,schedule
+is it going to be cloudy this week,weather
+set a reminder for my yoga class at 10 in the morning tomorrow,schedule
+what is the weather going to be like tomorrow show me the 7 day forecast,weather
+confirm that the meeting for the 12th this month is on at approximately 5 pm,schedule
+will i be able to make it to my meeting on time,schedule
+What is the highest temperature in San Jose on Thursday?,weather
+I need a reminder set for football activity on August 22th at 5 pm with Jeff. ,schedule
+"please set a conference reminder. I need it at 10 am, the tenth, with my vice president. ",schedule
+I need a quick route to a gas station. ,navigate
+Please schedule my yoga class at 1pm on Thursday with Jon.,schedule
+what's the weather forecast in new york,weather
+Can you find out the date and parties attending for my tennis activity? ,schedule
+what's the forecast for the weather today,weather
+Find the nearest gas station near my currently location.,navigate
+what's the weather going to be like today,weather
+what is the weather like in new york this week,weather
+What's the forecast in Carson for this weekend?,weather
+Is it gonna rain in Manhattan today and tomorrow?,weather
+navigate to my friend's home please,navigate
+when and where is my next meeting,schedule
+I have a doctor appointment next month on the 13th at 11 am with Tom. Please set a reminder. ,schedule
+tell me the weather for this week,weather
+schedule a meeting for 2 pm,schedule
+Set a reminder for an optometrist appointment with jeff later this week at 3pm,schedule
+Schedule a optometrist appointment with Tom today at 7pm.,schedule
+what's the forecast report,weather
+will it be cloudy this week,weather
+what is the weather for today,weather
+please give me directions to the nearest starbucks,navigate
+check calendar for when my doctor's appointment is,schedule
+What's the quickest route to the hospital?,navigate
+make a note to find a restaurant to eat at at 5 pm on the 12th,schedule
+i would like to schedule a meeting on the 12th what is my agenda for that day,schedule
+what's the weather forecast going to be for each day this upcoming week is it going to snow,weather
+Will it be warm on Sunday in Alameda?,weather
+will it snow this week,weather
+Where can I get Chinese food?,navigate
+show the route to my friend's house,navigate
+is it raining next week,weather
+is it going to rain sometime this week,weather
+I need to schedule a lab appointment. ,schedule
+What date is my tennis activity and who is attending?,schedule
+take me to my friend's house,navigate
+Where can I get groceries?,navigate
+how do i get to the nearest restaurant,navigate
+Set a reminder for dinner at 5pm on the 6th with Jeff.,schedule
+Schedule a swimming activity at 9am on August 22nd with Ana.,schedule
+Is it overcast now in Grand Rapids?,weather
+"I want to do some shopping. Direct me to a mall, but in a way that avoids all traffic. ",navigate
+"Remind me about a optometrist appointment on Tuesday at 2 pm, my sister will be coming",schedule
+Locate a place that serves pizza.,navigate
+Car find me a grocery store within 2 miles from my location with the shortest distance.,navigate
+Where does my friend live?,navigate
+Which one is gonna be the lowest temperature today in New York?,weather
+who is coming to my doctor appointment with me?,schedule
+I need the fastest route home. ,navigate
+tell me the weather forecast for this week,weather
+directions to local hotel,navigate
+will it rain this week,weather
+how's the weather in new york,weather
+Car I need a gas station!,navigate
+what's the weather forecast for the next week,weather
+look for parking,navigate
+Where can I get Chinese food?,navigate
+i need to know if it will be cloudy in san jose over the next seven days,weather
+What time is dinner and who is coming?,schedule
+what's the weather going to be like today and tomorrow,weather
+"Car I need to fill your gas, please show me a gas station near me in the direction we're actually driving",navigate
+Find a chinese joint that is within 3 miles of my location.,navigate
+what will the weather be like in the city,weather
+what's the weather like in grand rapids,weather
+What is the address of  my friend's house?,navigate
+What is the highest temperature in Manhattan in the next 2 days?,weather
+find out when my next conferences,schedule
+give me directions to 5677 southwest 4th street,navigate
+is there a chance of snow in this weeks weather forecast,weather
+Get me the address to the closest gas station.,navigate
+get me the weather forecast for the next 7 days,weather
+Will it be warm in Brentwood tomorrow?,weather
+What day and at what time do I take my medicine?,schedule
+can you check the time and date of my dinner?,schedule
+"I need you to set a schedule for a meeting at 3pm, the 5th with vice president to onboard new members",schedule
+add meeting in conference room 102 the calendar,schedule
+Set a reminder for dinner at 1pm on the 10th with my father. ,schedule
+What time is my optometrist appointment and who will be attending it?,schedule
+Please give me an address and directions by the fastest route with no traffic to a chinese restaurant. ,navigate
+Reminder for optometrist. ,schedule
+what's the weather like,weather
+What time is my doctor appointment and who is attending with me?,schedule
+"Good evening car, Set a reminder about a swimming activity at 3pm, December 10th with aunt, set it for 1pm.",schedule
+what time should i get my shot this afternoon,schedule
+"Set a schedule for a meeting at 5pm, 6th of this month with HR to sign the NDA.",schedule
+Will it be clear in San Mateo on Wednesday?,weather
+can you please take me to a coffee house,navigate
+what's the temperature outside like today,weather
+car is it going to snow today,weather
+how warm is it outside right now,weather
+Will it be dry in Durham on Sunday? ,weather
+I am hungry. Where is there some Chinese food close by? ,navigate
+what are the directions to the nearest hospital,navigate
+Please give me an address and directions via the quickest route to a parking garage near me. ,navigate
+give me directions to a coffee shop,navigate
+What grocery stores are around?,navigate
+What Chinese food options are there?,navigate
+remind me about my son's football practice at 2 tomorrow,schedule
+set a reminder about my swim meet next wednesday at 3 pm,schedule
+Is it raining in grand rapids currently?,weather
+I need to find a gas station that fast to get to.,navigate
+what's the weather forecast going to be for each day this upcoming week is it going to snow,weather
+What is the date and time of my next football activity? ,schedule
+check to see if i have any meetings or conferences in the near future,schedule
+car what is the temperature going to be today and tomorrow,weather
+Car I'd like to eat in a pizza restaurant: which one is the nearest?,navigate
+What is the date of my next dentist appointment and who will be attending it with me?,schedule
+car what is the temperature going to be today and tomorrow,weather
+"Car, schedule a reminder for a doctor's appointment at 4pm, the 7th with Tom. ",schedule
+"Remind me to take my medicine with Ana at 2pm, august 3.",schedule
+show me directions to the nearest mall,navigate
+Is it supposed to rain in brentwood today or tomorrow?,weather
+what's the temperature outside like today,weather
+what is the weather forecast for the next 7 days,weather
+what is the weather like this week,weather
+get me directions to a local cafe,navigate
+Car I need to get to a gas station: is there any around me?,navigate
+get me directions to the grocery store,navigate
+what's the weather supposed to be like in new york city on Monday,weather
+is it going to snow any this week,weather
+what is the weather next week in new york,weather
+find directions to home,navigate
+which day is my appointment on,schedule
+Set a reminder for swimming on the 1st at 5pm with Martha,schedule
+is it going to rain in the next few days tell me when,weather
+Please tell me what dates my football events are.,schedule
+find the nearest hotel,navigate
+give me directions to my friends house,navigate
+put a reminder in my calendar for tomorrow at 5 pm meeting,schedule
+I'm looking for a place where i can have some coffee.,navigate
+Can you find me a shopping center?,navigate
+give me directions to the grocery store,navigate
+give me directions to the nearest place where i can have a cup of tea,navigate
+check the weather for chances of snow,weather
+Who is attending the swimming event and when is it?,schedule
+will it be cloudy this week,weather
+which days will be cloudy this week,weather
+what's the seven day forecast for new york city,weather
+Find me a route with no traffic to the hospital. ,navigate
+Find the quickest way to my friends house around here,navigate
+Schedule a meeting with the vice president to discuss the company picnic on Sunday at 2pm.,schedule
+how many hotels are around here,navigate
+Schedule a doctor appointment with Alex for the 29th at 11am.,schedule
+directions to nearest barista,navigate
+find some places downtown where i can park,navigate
+where is the nearest grocery store,navigate
+what is the forecast for today and tomorrow,weather
+"Dinner, what time and date?",schedule
+set up a group meeting at the conference room for next week,schedule
+what time is my yoga class,schedule
+please tell me the weather for today and what the weather will be tomorrow,weather
+Set a reminder for a doctors appointment on the 4th at 3pm with Jon,schedule
+will it be raining in the next 7 days,weather
+What is the date and time for my dentist appointment?,schedule
+Where can I get Chinese food?,navigate
+what is the weather is it going to rain,weather
+is it snowing next week,weather
+Will it be misty in San Jose today and tomorrow?,weather
+when is my next dentist appointment,schedule
+is it cloudy today,weather
+Is it gonna be hot in Danville during the week?,weather
+car please show the possible routes to get home,navigate
+Will it be overcast in New York during the week?,weather
+is it going to be overcast or cloudy at all any day this week,weather
+find me parking garages,navigate
+navigate to the nearest hotel,navigate
+what time is my next workout?,schedule
+set doctor's appointment for next week,schedule
+Will it be cloudy in Boston on Monday?,weather
+what is the forecast for new york city,weather
+Car I need a pizza restaurant to satisfy my hunger: is there any in the area?,navigate
+what is the forecast for today and tomorrow,weather
+Can you find me the nearest pizza restaurant?,navigate
+what's the forecast for today,weather
+Looking for the day and people attending my lab appointment. ,schedule
+can you schedule in my dentist appointment today,schedule
+please tell me the weather for today and tomorrow,weather
+"I need you to schedule a reminder to take my medicine at 7 pm. Mark it on the 1st, with Ana. Please. ",schedule
+start listening what will be the weather for the week,weather
+Get me the address to a shopping mall near me.,navigate
+What is the forecast for Alhambra in the next few days?,weather
+can you tell me where the nearest rest stop is,navigate
+Will it be humid in Manhattan today and tomorrow?,weather
+when is my next appointment,schedule
+check weather forecast for seattle,weather
+take me to the closest whole foods place i can buy groceries,navigate
+i'd love to go shopping are there any malls nearby,navigate
+Schedule a optometrist appointment with my sister next week at 10am.,schedule
+tomorrow's forecast,weather
+give me directions to the local starbucks,navigate
+I need a rest stop.,navigate
+"When is yoga, and who is going?",schedule
+find out if it's supposed to rain,weather
+"Car I need to get to a gas station, is there any local one?",navigate
+i need directions to the restaurant,navigate
+Schedule a meeting on the 2nd at 3 pm with the infrastructure team to go over quarterly reports. ,schedule
+what is the weather next week,weather
+show me the nearby hospital,navigate
+what is the temperature outside,weather
+What date is my optometrist appointment and what parties are attending?,schedule
+where's the nearest place to get lunch,navigate
+Locate my friend's current address for me.,navigate
+what's the temperature going to be like this week,weather
+what time is my swimming lessons scheduled,schedule
+Find my home address near my location.,navigate
+"Give me the address and directions by the route with no traffic to home, please. ",navigate
+show me this week's forecast,weather
+Find out if it is misty in seattle today.,weather
+Find a coffee shop near my location.,navigate
+find me a nearby coffee shop where i can sit and have some coffee,navigate
+will it rain this week,weather
+what will the weather be like in the city,weather
+What time is my next yoga activity and who will be attending?,schedule
+Where is a rest stop within 5 miles?,navigate
+Please give me the address and directions via a route with no traffic to a nearby grocery store. ,navigate
+Is it misty in San Francisco now?,weather
+what's the weekly forecast for cleveland,weather
+will it rain anytime in the next week,weather
+what's today's and tomorrow's forecast,weather
+Find me a gas station i could get to the quickest.,navigate
+What is the date and time of my next tennis activity?,schedule
+Car please send me the address of some hotel in the area,navigate
+I need a hospital within 5 miles of me and the quickest route please.,navigate
+show me the nearest starbucks,navigate
+what's the weather going to be like in the city on thursday,weather
+i'm taking medicine at 7pm with Marie,schedule
+navigate to the nearest place to get coffee,navigate
+Reminder to take medicine. ,schedule
+tell me the weather for this week,weather
+can you tell me what day and what the agenda is for the business meeting i have in the 100 conference room,schedule
+is there snow in the forecast for the week,weather
+take me to a fast food restaurant,navigate
+what time is the meeting,schedule
+I need to set a reminder for dinner. ,schedule
+Get the address to a chinese restaurant that i could get to the quickest.,navigate
+directions to local cafe,navigate
+On monday will there be a blizzard in boston?,weather
+give me directions to the nearest starbucks,navigate
+Where is the nearest rest stop?,navigate
+"I'm kind of hungry, locate a pizza shop.",navigate
+i know what time my doctor's appointment is,schedule
+"Please give me the address and directions to the nearest parking garage, avoiding all heavy traffic. ",navigate
+check the weather,weather
+What is the address for home? ,navigate
+take me to a place where i can get some hot tea,navigate
+what route can i take home to avoid traffic,navigate
+is snow forecasted this week,weather
+Will there be drizzle in Camarillo this week?,weather
+what is the weather,weather
+what is the weather forecast like in the city,weather
+"Schedule a conference at 4pm, on the 1st, with HR",schedule
+Schedule a dentist appointment on the 8th at 1 pm with my aunt.,schedule
+I need the quickest route to a gas station please. ,navigate
+navigate to my friend's home please,navigate
+give me the 7 day weather forecast,weather
+what time is my doctor appointment,schedule
+I want tea.,navigate
+remind me of the time for today's dinner,schedule
+Will it be hot in Brentwood on Wednesday?,weather
+Which one is gonna be the highest temperature tomorrow in Durham?,weather
+Schedule a yoga activity with Alex for the 2nd at 1pm.,schedule
+Schedule a swimming activity with my brother for next Wednesday at 2pm.,schedule
+please show me the weekly weather report,weather
+What date and time is my football activity?,schedule
+Schedule a reminder for a doctor appointment with my father on August 22nd at 10am,schedule
+tomorrow's forecast,weather
+Look up the seven day forecast in Redwood City and find out if it will be foggy at all.,weather
+when will my lab results be in,schedule
+what is the temperature,weather
+bring me to the nearest grocery store,navigate
+can i get the two day weather report,weather
+What is the low today in Brentwood?,weather
+will there be drizzle on tuesday,weather
+set reminder to make doctor's appointment,schedule
+What time does my next dinner gathering start and who will be attending?,schedule
+what is the forecast in my city,weather
+what time is the football game,schedule
+Hello car. Hi I want to find out the time and the parties attending my lab appointment please. ,schedule
+Find me a gas station that i could get to with the least amount of traffic.,navigate
+find me the nearest grocery store,navigate
+please check the weather for this week,weather
+find what time my lab appointment is for,schedule
+show me the nearby hospital,navigate
+Local chinese restaurant is needed pronto.,navigate
+"I need to find a hospital quickly, without any heavy traffic",navigate
+when's my next scheduled yoga class,schedule
+quickest route home,navigate
+i know what time my doctor's appointment is,schedule
+directions to the nearest grocery store,navigate
+what's the weather like,weather
+Is there a hospital within 5 miles?,navigate
+how do i get to the nearest restaurant,navigate
+what's the weather like this week,weather
+What day is the football activity and who is coming?,schedule
+What time is my next dinner and who will be attending it?,schedule
+what is the weather,weather
+find the closest parking lots to me please,navigate
+Will it be overcast in Alameda on Monday?,weather
+How will it be the weather forecast for the next two days in Exeter?,weather
+What is the date and time of my next yoga activity?,schedule
+it's going to be raining so i have to drive slow,weather
+"Car, find the address for the grocery store, I need the details of location like the closest one with route details, shortest distance please.",navigate
+Will there be a blizzard in seattle this week?,weather
+what is the weather for next week,weather
+Will it be foggy in Carson on Saturday?,weather
+what's the highest temperature for this week,weather
+Will it be stormy in Carson on Sunday?,weather
+Fastest route to the grocery store. ,navigate
+insert reminder to take my pills in the calendar,schedule
+tell me when is my next meeting and who are invited in the meeting and what are the agenda of the next meeting,schedule
+give me directions to the nearest grocery store,navigate
+What time is my next football activity and who will be attending?,schedule
+give me directions to my house,navigate
+"Where is my conference, what is it about, and what day is it.",schedule
+tell me the best route to get home with the least amount of traffic,navigate
+Are there any Chinese restaurants here?,navigate
+what will the temperature be this weekend,weather
+Set a reminder for dinner at 3PM on Sunday with my aunt.,schedule
+"I need a reminder, it's for a swimming activity at 10am, 14th of August, with mother.",schedule
+please tell me about the time and date my next meeting is scheduled for and what i hope to accomplish it,schedule
+Schedule a reminder for my yoga class at 7pm on my calendar with Tom.,schedule
+is the weather cloudy right now,weather
+What is the lowest temperature in Compton on Wednesday?,weather
+show me the locations of all of the nearby motels,navigate
+please give me directions to a nearby parking garage parking lot,navigate
+schedule a new meeting,schedule
+Where can I get pizza?,navigate
+What is the date of my next medicine activity and who will be attending?,schedule
+Is it gonna be stormy in Danville today and tomorrow?,weather
+Where can I go shopping?,navigate
+"Car I need the address of a parking garage near me, please help me!",navigate
+please let me know the weather forecast for tomorrow,weather
+Where is the local pizza shop at?,navigate
+Get me the address of a chinese restaurant around this area.,navigate
+I need a reminder for the dinner later this week. ,schedule
+I need to find out the time and parties attending for my medicine taking. ,schedule
+Is there a parking garage around?,navigate
+Set a reminder for my conference with management later this week at 11 am.,schedule
+remind me what's planned for the meeting today,schedule
+find me somewhere to park,navigate
+Where can I get groceries?,navigate
+please give directions to the nearest starbucks,navigate
+What's the weather forecast in San Francisco for the next two days?,weather
+what is the weather is it going to rain,weather
+what time is my dentist appointment,schedule
+Remind me about my meeting on the 29th at 4pm with the executive team to onboard new members. ,schedule
+Could you tell me the weather forecast in Fresno on Saturday?,weather
+where is the closest place to eat,navigate
+Schedule a reminder to take medicine at 2 pm on Monday the 1st with Ana. ,schedule
+Over the next seven days will it be humid at all in redwood city?,weather
+Set a calendar reminder for dinner with my mother at 4pm.,schedule
+get me the weather report for this week,weather
+remind me of my dentist appointment,schedule
+Give me the fastest route to a rest stop .,navigate
+August 3rd at 10 am I am going swimming with my brother. ,schedule
+get me directions to the nearest chinese restaurant,navigate
+What is the date for my doctor's appointment and who will be attending?,schedule
+put my eye doctor appointment into the calendar it's tomorrow at 3 pm and remind me 2 hours before,schedule
+Is it gonna be warm Friday in Alhambra?,weather
+"Can you schedule an optometrist appointment at 1pm, Friday, with Martha? ",schedule
+Where do I live?,navigate
+"Can you set a reminder for my lab appointment? It needs to be at 5pm, August 22nd, with Martha. ",schedule
+remind me i have a tennis match on the 12th,schedule
+"Hi, Can I set a scedule about football at 3 PM next week with Alex?",schedule
+what's today's and tomorrow's forecast,weather
+how warm is it outside right now,weather
+when's my doctor's appointment,schedule
+remind me to go to the football game on december 12th at 4:50 pm,schedule
+Is it gonna be misty in San Francisco on Tuesday?,weather
+Where can I get some tea?,navigate
+I need a shopping center within 2 miles.,navigate
+"Car, what is my home address and can you get us there with no traffic?",navigate
+"Hi car, I need to find out the time and date for my dinner please. ",schedule
+What time is my lab appointment and what parties are attending?,schedule
+Please confirm the address and give me directions via a route with no traffic to home. ,navigate
+Schedule a tennis activity at 9 am on Monday August 8th with Ana.,schedule
+Is it gonna be misty in Corona on Monday?,weather
+where's the nearest parking garage,navigate
+Schedule a conference with management on the 7th at 2pm.,schedule
+check the weather for today,weather
+"What time do I play tennis, and who is coming?",schedule
+what's the weather forecast for tomorrow,weather
+please give me directions to a nearby parking garage parking lot,navigate
+Where is the closest rest stop with no traffic? ,navigate
+Schedule a conference with HR. ,schedule
+Schedule an appointment at 5PM at the end of March with Tom.,schedule
+where is the closest place to eat,navigate
+What is the date and time for my doctor appointment?,schedule
+what is the weather like today,weather
+schedule a blood test,schedule
+Car my friends' house should be in the area: do you see it on your map?,navigate
+Set a reminder for lab appointment today at 3 pm with sister. ,schedule
+find weekly weather forecast,weather
+Schedule a reminder for football with Ana on the 15th of this month at 11am.,schedule
+Will it be stormy in Exeter in the next 7 days?,weather
+is it going to snow this week,weather
+I need the quickest route to a rest stop. I am so tired.,navigate
+Find me a place where i could have some coffee.,navigate
+what's the forecast going to be for today and tomorrow,weather
+what time is my doctor's appointment,schedule
+what is the forecast for the rest of the day,weather
+Is the weather warm in Atherton now?,weather
+set alarm for dinner tonight,schedule
+is it going to rain sometime this week,weather
+will the weather be cloudy next week,weather
+tell me when my doctor's appointment is,schedule
+what is the forecast in my city,weather
+please let me know the weather forecast for tomorrow,weather
+Find me a place where i can enjoy some chinese food around here.,navigate
+when is my optometrist's appointment on the 12th,schedule
+check the weather for chances of snow,weather
+mark on my calendar that i am going to the football game this saturday at 3:30,schedule
+Get the address to the closest gas station ASAP.,navigate
+Schedule a reminder to take medicine with my brother this month on the 11th at 3pm.,schedule
+find starbucks,navigate
+What time is my tennis match and who is it with? ,schedule
+Please tell me what time my yoga activity is and who will be attending. ,schedule
+Tomorrow in inglewood will it be windy?,weather
+how cloudy is it going to be for the next week,weather
+when's my next scheduled yoga class,schedule
+Are there clear skies in Grand Rapids now?,weather
+What day and time is my dentist appointment?,schedule
+what's the temperature going to be like on friday,weather
+What shopping centers are around?,navigate
+Get the address to the nearest shopping mall.,navigate
+find the nearest parking lot,navigate
+Show me all information regarding my upcoming dentist appointment. ,schedule
+take me to a fast food restaurant,navigate
+what day is the football game,schedule
+Locate a place where i could purchase groceries that is near me.,navigate
+"Car I'm looking for a pizza restaurant within 4 miles of my actual position, possibly with no traffic",navigate
+Take me home. ,navigate
+what is the weather forecast for the weekend,weather
+you tell me if the forecast for the next week calls for it to be above 86 degrees on any day,weather
+Please add a yoga activity to my schedule on the 29th at 4pm with Tom.,schedule
+schedule a doctors appointment on the 12th,schedule
+i'm looking for a place to eat can you show me directions to the nearest fast food restaurant,navigate
+What is the time and location of my next conference and who will be attending it?,schedule
+what's the weather forecast for today and tomorrow,weather
+Set a reminder for yoga on the 2nd with father at 5pm,schedule
+schedule tennis for 4:50 pm on the 12th,schedule
+"What is the time, location, and agenda of my next conference?",schedule
+give me directions to a place to sleep,navigate
+i have a doctor's appointment to go to at 12 pm,schedule
+Is it gonna snow during the next week in Atherton?,weather
+please tell me the weather for today and what the weather will be tomorrow,weather
+Schedule a yoga activity with Alex on August 14th at 1pm.,schedule
+where is the nearest hotel,navigate
+navigate to the nearest coffee shop,navigate
+schedule my eye doctor appointment,schedule
+What time is my doctors appointment and who is attending?,schedule
+Schedule a yoga activity at 2pm on the 5th of this month with Alex.,schedule
+What time is my next swimming activity and who will be attending?,schedule
+Schedule a reminder for me to take my medicine today with my father at 1pm.,schedule
+Where is the closest gas station and what are the directions to get there the fastest?,navigate
+what is the current temperature,weather
+Is it gonna be windy in Alameda on Monday?,weather
+how hot is it going to be this week,weather
+Find the shortest distance to a chinese restaurant nearby,navigate
+where can i go to eat,navigate
+directions to nearest barista,navigate
+navigate fastest route home,navigate
+I need to schedule a Doctor's appointment. ,schedule
+Running out of gas. Closest gas station? ,navigate
+What is the date of my next lab appointment and who will be attending?,schedule
+What time and date is my conference and what is the agenda?,schedule
+find out if it's going to be cloudy next week,weather
+Set a reminder for me for the meeting next week at 5pm with my boss in which we will go over the budget.,schedule
+what is the weather like today in tomorrow,weather
+what's the weather going to be like for this week,weather
+send me to the nearest gas station,navigate
+Will it be cloudy in New York on Thursday?,weather
+"Where and on what day is my meeting, and what is the agenda?",schedule
+what is the weather forecast for wednesday through tuesday of next week,weather
+give me directions to the nearest coffee place,navigate
+what is the weather forecast for wednesday through tuesday of next week,weather
+let me know if there will be snow and ice in the next week's forecast,weather
+Where do I live?,navigate
+What time and date is my dentist appointment?,schedule
+"Car I need a parking garage in the area, please find something for me",navigate
+what day is my yoga class,schedule
+find the nearest parking lot,navigate
+Schedule a meeting with executive team to discuss the company picnic on the 8th at 7 pm,schedule
+Car I need a quick route to a Hospital in the area,navigate
+This week in exeter will it be hot?,weather
+Is there a rest stop near me?,navigate
+"What is the date of my meeting, who will be there, and what time does it start?",schedule
+what are the directions to the nearest chinese restaurant,navigate
+what is the forecast for today's weather,weather
+Fastest way to get to a nearby coffee place? ,navigate
+please let me know the weather forecast for tomorrow,weather
+I need to find a parking garage with no traffic in the route.,navigate
+find what time my doctor appointment is for,schedule
+find me the closest coffee shop on the map,navigate
+Set a reminder for yoga next month on the 13th at 6pm with my mom.,schedule
+Is there a parking garage near?,navigate
+i have a doctor's appointment to get a tooth removed and i have to go,schedule
+what's the weather like on my drive today,weather
+"Car, remind me to take my medicine at 11 am, with Jeff.",schedule
+Remind me about my optometrist appointment on Thursday with my brother,schedule
+Set a reminder for me to take my medicine at 10am when I meet with my sister at the end of March.,schedule
+what is the weather like today and tomorrow,weather
+what is the date and time of the meeting,schedule
+where can i get coffee,navigate
+find me a nearby tea or coffee shop,navigate
+tell me when i have yoga class,schedule
+"Remind me about my doctor appointment at 9 am today, my sister is coming.",schedule
+when am i supposed to swim tomorrow,schedule
+Set a reminder for a meeting with my boss on the 12th of this month at 10am to discuss the budget.,schedule
+give me directions to the local starbucks,navigate
+send me to the nearest gas station,navigate
+Where can I get Chinese food?,navigate
+what's the forecast for the city this week,weather
+is it going to rain in the next 7 days,weather
+directions to nearest grocery store,navigate
+What is my adress?,navigate
+What's the weather in Alameda now?,weather
+set reminder for yoga classes on the 12th of this month,schedule
+Will it be dry in Durham today?,weather
+When is my swimming activity and who will be there? ,schedule
+what is the weather like today,weather
+what is the weather going to be like today and tomorrow,weather
+I need to know when my football activity is and with whom. ,schedule
+please show me the weekly weather report,weather
+Is there going to be snow in Boston on Monday? ,weather
+"Hi, I need to know some information about my upcoming conference, specifically, when and where it will take place, and what will be on the agenda. ",schedule
+find nearby parking areas,navigate
+will it be raining in the next 7 days,weather
+Is it gonna drizzle in Durham during the week?,weather
+will the weather be cloudy next week,weather
+What is the highest temperature in New York right now,weather
+Tell me the weather report for Tuesday in San Mateo,weather
+where's the nearest produce stand,navigate
+navigate to the nearest place to get coffee,navigate
+Where can I get gas?,navigate
+show me traffic for going home,navigate
+i have a dinner on tuesday,schedule
+"Schedule me a meeting today at 3pm, with management to onboard new members.",schedule
+Car find me a local chinese restaurant with the fastest route.,navigate
+what is the weather forecast for wednesday through tuesday of next week,weather
+Find out the date and time for my dentist appointment,schedule
+show directions for the nearest grocery store,navigate
+tell me how hot it's going to be in the forecast for the weather,weather
+can you please take me to a coffee house,navigate
+What time is my swimming activity and who is going to be attending?,schedule
+tell me the time and date that my next tennis game is scheduled at,schedule
+"Remind me about my optometrist appointment on Thursday at 11 am, my aunt is coming",schedule
+What is the weather like in Danville next week?,weather
+Is it gonna be humid in Inglewood during the next week?,weather
+Which one will be the temperature in Compton today and tomorrow?,weather
+i have to go grocery shopping can you give me directions to the nearest grocery store,navigate
+will it be stormy this weekend in Cleveland?,weather
+what's the weather going to be like today and tomorrow,weather
+"Please, set a reminder for a meeting at 1pm with HR to sign the NDA!",schedule
+find me the closest coffee shop on the map,navigate
+Where is there pizza?,navigate
+what's the weekly forecast,weather
+what is the weather forecast in the city,weather
+remind me that i have a meeting at work on the 12th at 5 pm in conference room 100,schedule
+Schedule a conference with the executive team at 5 pm on the 6th .,schedule
+Will it be frost in Alhambra in next 48 hours?,weather
+On friday will there be clear skies in Oakland?,weather
+what is the local weather forecast for this week,weather
+find me the nearest grocery store,navigate
+Schedule a swimming activity with Alex for the 13th at 1pm.,schedule
+Where is the closest rest stop?,navigate
+set a reminder for lab work on the 12th,schedule
+check doctor's appointment date,schedule
+Will it drizzle in Redwood City on Tuesday?,weather
+Is it going to be humid in Camarillo on Tuesday?,weather
+take me to the nearest cafe,navigate
+What time is the tennis activity and who is attending?,schedule
+search for nearby starbucks,navigate
+can you give me directions to a fast food place that serves pizza,navigate
+Set a reminder for dinner at 7pm on the 6th with my brother.,schedule
+Is it gonna be hot in Atherton today and tomorrow?,weather
+what time do the lab results come in,schedule
+Will it hail in Brentwood?,weather
+get me directions to the closest starbucks,navigate
+Find the nearest gas station near my location.,navigate
+Where can I get groceries?,navigate
+Will there be rain in Grand Rapids on Tuesday? ,weather
+Schedule a calendar reminder for yoga with Jeff at 6pm on the 5th.,schedule
+what is the weather next week,weather
+What is the date and time of my next swimming activity?,schedule
+car what is the weather going to be like in the next several days,weather
+Car is there any grocery store near me?,navigate
+Get me the address of a coffee or tea place around me that has no traffic,navigate
+can you schedule a football game next month on the 13th?,schedule
+remind me when my next doctor's appointment is,schedule
+does the local forecasts say it'll be cloudy,weather
+Any pizza close?,navigate
+what time is my dinner reservation,schedule
+give me the weather for next week,weather
+give me the full weekly weather forecast,weather
+set a reminder for the lab request on 12th,schedule
+What is the date for my doctor appointment and who is attending?,schedule
+show me this week's forecast,weather
+what is the weather today,weather
+show me the way to some chinese food,navigate
+Set a reminder to take medicine at 9am on the 12th of this month with Alex.,schedule
+Will there be any frost in fresno this week?,weather
+get me directions to a local cafe,navigate
+is it supposed to rain this week,weather
+What is the date of my next doctor appointment and who will be attending?,schedule
+Where can a girl get some pizza around here?,navigate
+I want coffee.,navigate
+what is the date and time of my next exercise class,schedule
+Schedule a conference with the boss on the 2nd at 2pm.,schedule
+i'd love to go shopping are there any malls nearby,navigate
+tell me the closest place to get a cup of hot tea,navigate
+when should i take my medicine next,schedule
+Will there be dew in Durham tomorrow? ,weather
+schedule my tennis class,schedule
+what is the agenda of my meeting today,schedule
+Is it gonna be windy in Camarillo on Sunday?,weather
+What is the address for my house? ,navigate
+Where is the nearest rest stop?,navigate
+can you give me directions to the nearest starbucks,navigate
+Find a gas station that is not farther than 3 miles away.,navigate
+Address for Starbucks please. ,navigate
+Schedule a tennis match for 3pm this week with Jeff.,schedule
+When is my doctors appointment and who is going?,schedule
+will it rain next week,weather
+does the forecast say it will snow,weather
+schedule my doctors appointment on the 12th,schedule
+I need the closest parking garage. ,navigate
+tell me what the temperature will be like for the next week,weather
+I need a pizza place within 4 miles.,navigate
+What time is the swimming party and who is attending?,schedule
+give me directions to the nearest parking garage,navigate
+Can you schedule dinner with Tom at 6pm today?,schedule
+Will it rain in Redwood City this weekend?,weather
+check today's weather,weather
+Info about meeting. ,schedule
+remind me there's a football game on the 12th,schedule
+I need a route to a gas station and avoid heavy traffic. ,navigate
+Do you know who's coming for tennis? And when is it taking place?,schedule
+find the fastest direction to home,navigate
+give me directions to my house,navigate
+Where is the closest parking garage?,navigate
+what is the date of my next yoga class,schedule
+When is my swimming activity and who is attending?,schedule
+Where is a parking garage without heavy traffic?,navigate
+What time and date do I have football scheduled next?,schedule
+what is the forecast for the city this week,weather
+Will it rain in Chicago next week?,weather
+Remind me that I have yoga with Ana at 4 pm on Wednesday,schedule
+What is the date and time for my optometrist appointment?,schedule
+Remind me about swimming with Jeff later this week at 4 pm.,schedule
+what's the weather supposed to be like in new york city this week,weather
+please find me directions to a nearby place i can get some coffee,navigate
+is it going to rain in the next 7 days,weather
+Will it be overcast in Boston on Saturday?,weather
+what time is my doctor's appointment,schedule
+what's it going to be like in san jose,weather
+Please schedule me a yoga activity with Tom on the 4th at 5pm.,schedule
+next doctor's appointment,schedule
+find out if it's going to be cloudy next week,weather
+how do i get to the nearest restaurant,navigate
+I need a hospital quick!,navigate
+Where can I get Chinese food?,navigate
+what's the temperature going to be this week,weather
+remind me to go get a shot tomorrow,schedule
+check today's weather,weather
+how warm is it outside right now,weather
+check the weather,weather
+will it rain this week,weather
+Where is the closest parking garage?,navigate
+Where can I get gas?,navigate
+what is the weather is it going to rain,weather
+please schedule a game of tennis with my friend for next week,schedule
+who is coming with me to my doctor appointment,schedule
+what is today's weather forecast,weather
+Which one is gonna be the lowest temperature in Brentwood on Saturday?,weather
+check calendar for when my doctor's appointment is,schedule
+Where is the closest hospital?,navigate
+What is the address for my friends house?,navigate
+What time is my lab appointment and who will be attending it?,schedule
+I need gas!,navigate
+what is the temperature outside,weather
+I need the address to my friend's home.,navigate
+what's the weather forecast for today and tomorrow,weather
+give me directions to nearest mall,navigate
+check the weather for today,weather
+car what is the date and time of my next appointment with my optometrist,schedule
+What grocery stores are around?,navigate
+direct me to the nearest starbucks,navigate
+Car I desire to eat in some good pizza restaurant: which one is the nearest?,navigate
+i have a dentist appointment on the 12th of this month,schedule
+Where is the nearest grocery store located?,navigate
+Schedule a tennis activity with Martha for the end of March at 9am.,schedule
+will it rain this week,weather
+is it going to be cloudy in the next 7 days,weather
+"Car I need to rest, please find some rest stop near me in the direction we're going now",navigate
+i need directions to my house and avoid all heavy traffic,navigate
+Will there be snow on Wednesday in Oakland?,weather
+give me a location to a local parking lot,navigate
+where's the nearest produce stand,navigate
+Schedule conference with vice president. ,schedule
+check today's forecast for rain,weather
+Find a pizza restaurant that is open near me.,navigate
+Is it going to be foggy in Compton in the next 7 days?,weather
+Car I'm desiring to eat Chinese food!,navigate
+what's the forecast for the city this week,weather
+what is the temperature outside,weather
+take me to the nearest chinese restaurant,navigate
+find some places downtown where i can park,navigate
+is it going to be cloudy this week,weather
+Will it be frost in San Jose tomorrow?,weather
+What hospitals are here?,navigate
+will it rain next week,weather
+"Car, set a reminder for a conference at 6 pm. I need it on the 1st with my boss.",schedule
+"What time is my yoga class, and who all will be there?",schedule
+what is the weather in new york city,weather
+Car I'm desiring to eat at some Chinese restaurant: is there anything within 2 miles?,navigate
+please make an appointment on tuesday for me to see the doctor,schedule
+When is my optometrist appointment? ,schedule
+when is my scheduled appointment for my lab,schedule
+Give me saturday's weather report for menlo park,weather
+schedule a meeting for today,schedule
+tell me the weather for this week,weather
+please tell me the weather for today and what the weather will be tomorrow,weather
+give me directions to the closest chinese food restaurant,navigate
+When is my football activity and who is attending?,schedule
+please check the weather for this week,weather
+what time is my tennis match for this saturday,schedule
+Will it be misty in Seattle at any point in the next 7 day period? ,weather
+Is it going to be foggy in Camarillo this weekend?,weather
+What is the temperature in Danville this week? ,weather
+Can you find out the parties attending and the date for the day I take my medicine?,schedule
+find me a place where i can buy coffee or tea,navigate
+set a reminder for 10,schedule
+I need a reminder about a lab appointment. ,schedule
+Schedule a football activity with Tom on the 4th at 6pm.,schedule
+What is the time and date of my football activity?,schedule
+remind me about that meeting later,schedule
+it's going to be raining so i have to drive slow,weather
+Is it humid over the next two days,weather
+confirm meeting for 4:50 pm on the 12th,schedule
+what is the forecast for today's weather,weather
+"Whats the two day forecast for new york, does it say it will be hot?",weather
+what time is my meeting tomorrow and what is the agenda,schedule
+find me a hotel somewhere near my current location,navigate
+what is the weather going to be like tomorrow show me the 7 day forecast,weather
+"Remind me about my doctor's appointment at 1pm on thursday, with Tom",schedule
+What is the date and time of dinner?,schedule
+Schedule a reminder to take medicine with my brother on Friday at 3pm.,schedule
+Schedule a swimming activity with Ana for the 1st at 2pm.,schedule
+I need tea.,navigate
