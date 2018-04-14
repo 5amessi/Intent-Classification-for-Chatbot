@@ -63,7 +63,7 @@ def seq_data(data,word_to_ind):
 
 def read_data():
     #message,food,recharge,support,reminders,travel,nearby,movies,casual,other
-    data = pd.read_csv('train_data')
+    data = pd.read_csv('kvret_dataset')
     x = data['message']
     y = data['intent']
     temp_unique_label = y.unique()
